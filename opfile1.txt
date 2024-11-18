@@ -1,0 +1,988 @@
+Country	TBD	Article Category	TBD	Article text	TBD	TBD	Sales units	Sales value
+SE	1.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	Despec	1	2717.73
+DK	11.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 461T - Hörlurar med mikrofon - inuti örat - nackrem - Bluetooth - trådlös - aktiv brusradering - svart med silver - Certifierad för Microsoft-teams	5714710000000.0	Triada	1	1446.48
+NO	233.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+SE	44.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2634.19
+DK	1.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+NO	2.0	Keyboard & Mice	Keyboard - Wireless	Contour Balance Keyboard - tangentbord	743870000000.0	ALSO	1	757.9
+SE	3.0	Ink, toner & consumables	Toner - Black	HP 201A - Svart - original - LaserJet - tonerkassett (CF400A) - för Color LaserJet Pro M252dn, M252dw, M252n, MFP M274n, MFP M277c6, MFP M277dw, MFP M277n	888793000000.0	Ingram	1	694.08
+DK	1.0	Ink, toner & consumables	Toner - Colour	HP 201A - Cyan - original - LaserJet - tonerkassett (CF401A) - för Color LaserJet Pro M252dn, M252dw, M252n, MFP M274n, MFP M277c6, MFP M277dw, MFP M277n	888793000000.0	Ingram	1	818.77
+NO	23.0	Ink, toner & consumables	Toner - Colour	HP 201A - Magenta - original - LaserJet - tonerkassett (CF403A) - för Color LaserJet Pro M252dn, M252dw, M252n, MFP M274n, MFP M277c6, MFP M277dw, MFP M277n	888793000000.0	Ingram	1	818.77
+SE	23.0	Computers	Laptops	"Dell XPS 15 9520 - Intel Core i7 12700H - Win 11 Pro - GF RTX 3050 Ti - 32 GB RAM - 1 TB SSD NVMe - 15.6"" pekskärm 3840 x 2400 (Ultra HD Plus) - Wi-Fi 6E - silver - med 1 års Dell ProSupport"	nan	Ingram	1	29177.06
+DK	4.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2634.19
+NO	34.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	ALSO	1	2815.07
+SE	234.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Wireless - rullmus - svart	743870000000.0	ALSO	1	2635.02
+DK	234.0	Printing	Printers - Laser (Mono)	HP LaserJet Pro 4002dn - skrivare - svartvit - laser	nan	ALSO	1	2967.51
+NO	243.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	ALSO	1	2815.07
+SE	53.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Max - rullmus - USB - röd - med ArmSupport	743870000000.0	ALSO	1	3204.69
+DK	1.0	Multimedia & Audio	Speakers	Sony SRS-XB23 - högtalare - för bärbar användning - trådlös	nan	ALSO	1	997.45
+NO	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A13 - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 64 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar - 4x bakre kameror 50 MP, 5 MP, 2 MP, 2 MP - front camera 8 MP - svart"	nan	ALSO	1	1580.75
+SE	45.0	Monitors & TV	Monitors	"HP E27q G4 - E-Series - LED-skärm - 27"""	nan	ALSO	2	5280.48
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Max - rullmus - USB - röd - med ArmSupport	743870000000.0	ALSO	1	3204.69
+NO	5.0	Multimedia & Audio	Headsets	Poly Blackwire C5210 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158610.0	Ingram	1	499.77
+SE	3.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	540.64
+DK	5.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A32 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.4"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 8 MP, 5 MP, 5 MP - front camera 20 MP - fantastisk svart"	nan	Ingram	1	2607.5034
+NO	2.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 14 Pro Max - 5G smartphone - dual-SIM / Internal Memory 256 GB - OLED-skärm - 6.7"" - 2796 x 1290 pixels (120 Hz) - 3 st. bakre kameror 48 MP, 12 MP, 12 MP - front camera 12 MP - space black"	nan	Ingram	2	27156.72
+SE	4.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	540.64
+DK	3.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	540.64
+NO	56.0	Digital Cameras & Video	Document camera	Epson ELPDC13 - digital dokumentkamera	8715950000000.0	Exertis	5	17390.65
+SE	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 14 Pro - 5G smartphone - dual-SIM / Internal Memory 256 GB - OLED-skärm - 6.1"" - 2556 x 1179 pixlar (120 Hz) - 3 st. bakre kameror 48 MP, 12 MP, 12 MP - front camera 12 MP - space black"	nan	Ingram	1	13249.16445
+DK	56.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - grön"	nan	Ingram	1	7401.4
+NO	3.0	Multimedia & Audio	Video Conferencing	Logitech MeetUp - konferenskamera	5099210000000.0	EET	1	6070.0
+SE	5.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	828.0
+DK	357.0	Multimedia & Audio	Headsets	Jabra Evolve 65 MS stereo - Headset - på örat - Bluetooth - trådlös - NFC - USB - Certifierad för Skype for Buisness	5706990000000.0	EET	1	1350.92
+NO	3.0	Accessories	Docking Solutions	Dell Thunderbolt Dock WD19TBS - dockningsstation - USB-C / Thunderbolt 3 - HDMI, 2 x DP, Thunderbolt, USB-C - GigE	nan	EET	1	2554.0
+SE	7.0	Ink, toner & consumables	Toner - Black	Toner/80J Blk Contract LJ	191629000000.0	Despec	1	785.27
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	Despec	1	2117.78
+NO	657.0	Monitors & TV	Monitors	"Dell UltraSharp U2422H - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	1	2612.14
+SE	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S20 FE 5G - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 12 MP, 12 MP, 8 MP - front camera 32 MP - marinblått moln"	nan	Ingram	1	5491.99
+DK	67.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	2	3768.0
+NO	35.0	Printing	Printers - Laser (Mono)	HP LaserJet Pro M404dn - skrivare - svartvit - laser	192019000000.0	EET	2	6948.0
+SE	67.0	Digital Cameras & Video	Network Cameras	AXIS M3085-V - nätverksövervakningskamera - kupol	nan	EET	2	5284.0
+DK	3.0	Digital Cameras & Video	Network Cameras	AXIS M2036-LE - nätverksövervakningskamera - kula	nan	EET	2	7580.0
+NO	65.0	Computers	Laptops	"Apple MacBook Pro - M1 - M1 8-core GPU - 16 GB RAM - 512 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - space grey - CTO"	10000000000000.0	Ingram	5	74197.25
+SE	73.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+DK	5.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	1533.03
+NO	6.0	Home Electronics	DVD Players	Sony DVP-SR370 - DVD-spelare	4905520000000.0	ALSO	1	571.41
+SE	2.0	Ink, toner & consumables	Toner - Black	OKI - Svart - original - tonerkassett - för ES 5432dn, 5442dn, 5463 MFP, 5473 MFP	5031710000000.0	ALSO	1	487.98
+DK	2.0	Ink, toner & consumables	Toner - Colour	OKI - Magenta - tonerkassett - för ES 5432dn, 5442dn, 5463 MFP, 5473 MFP	5031710000000.0	ALSO	1	1001.19
+NO	56.0	Monitors & TV	Monitors	"Samsung S24R650FDU - SR650 Series - LED-skärm - Full HD (1080p) - 24"""	8806090000000.0	ALSO	4	6411.04
+SE	3.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+DK	456.0	Ink, toner & consumables	Toner - Black	HP 05A - Svart - original - LaserJet - tonerkassett (CE505A) - för LaserJet P2033, P2035, P2036, P2037, P2054, P2055, P2056, P2057	883586000000.0	Ingram	1	907.52
+NO	3.0	Monitors & TV	Monitors	"Lenovo ThinkVision P24h-2L - LED-skärm - 24"""	nan	Ingram	2	5791.52
+SE	56.0	Monitors & TV	Monitors	"HP E24i G4 - E-Series - LED-skärm - 24"""	nan	Ingram	1	1802.45
+DK	3.0	Monitors & TV	Televisions	"Philips 58BFL2114 B-Line Professional Series - 58"" LED-bakgrundsbelyst LCD-TV - 4K - för digital skyltning"	nan	TD SYNNEX	1	6669.46665
+NO	6.0	Multimedia & Audio	Headsets	Jabra Evolve2 75 - Headset - on-ear - Bluetooth - wireless, wired - active noise cancelling - USB-A - noise isolating - beige - Certified for Microsoft Teams	5706990000000.0	TD SYNNEX	1	2492.3
+SE	1.0	Monitors & TV	Monitors	"Samsung S34A650UXU - S65UA Series - LED-skärm - böjd - 34"" - HDR"	nan	TD SYNNEX	1	4387.18
+DK	6.0	Monitors & TV	Monitors	"Samsung S34A650UXU - S65UA Series - LED-skärm - böjd - 34"" - HDR"	nan	TD SYNNEX	1	4387.18
+NO	2.0	Monitors & TV	Monitors	"Philips B Line 276B1 - LED-skärm - 27"""	nan	TD SYNNEX	1	3444.91
+SE	2.0	Keyboard & Mice	Keyboard - Cable	Lenovo Essential - Tangentbord - USB - Svenska/finska - svart - OEM - för Flex 5G 14Q8CX05; Legion 5 15IMH05; ThinkStation P340; V14 G2 ALC; V15 IML	nan	TD SYNNEX	1	208.22
+DK	56.0	Monitors & TV	Monitors	"EIZO FlexScan EV2485-BK - LED-skärm - 24.1"""	nan	TD SYNNEX	2	9004.92
+NO	3.0	Computers	Tablets	"Apple 10.9-inch iPad Air Wi-Fi + Cellular - 5:e generation - surfplatta - 256 GB - 10.9"" - 3G, 4G, 5G"	194253000000.0	TD SYNNEX	1	9666.62
+SE	456.0	Power-adaptors & UPS	Power Adapters	Apple USB-C - strömadapter - 140 Watt	nan	TD SYNNEX	1	807.99
+DK	3.0	Computers	Tablets	"Apple 10.9-inch iPad Wi-Fi + Cellular - 10:e generation - surfplatta - 64 GB - 10.9"" - 3G, 4G, 5G"	194253000000.0	TD SYNNEX	1	6430.55
+NO	56.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	3	28941.96
+SE	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A53 5G - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 256 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar (120 Hz) - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	TD SYNNEX	1	4787.52
+DK	6.0	Monitors & TV	Monitors	"Samsung S24A400UJU - S4U Series - LED-skärm - Full HD (1080p) - 24"""	nan	TD SYNNEX	1	1873.94
+NO	1.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	193639000000.0	TD SYNNEX	8	26917.92
+SE	11.0	Storage	Hard Drives - External	Samsung Portable SSD T7 MU-PC500H - solid state drive - 500 GB - USB 3.2 Gen 2 -	8806090000000.0	TD Synnex	5	3960.4
+DK	233.0	Keyboard & Mice	Keyboard - Cable	Lenovo Essential - Tangentbord - USB - Svenska/finska - svart - OEM - för Flex 5G 14Q8CX05; Legion 5 15IMH05; ThinkStation P340; V14 G2 ALC; V15 IML	nan	TD SYNNEX	1	208.22
+NO	44.0	Monitors & TV	Monitors	"Samsung F27T370FWR - LED-skärm - Full HD (1080p) - 27"""	nan	TD SYNNEX	1	1499.65
+SE	1.0	Monitors & TV	Monitors	"Samsung S34A650UXU - S65UA Series - LED-skärm - böjd - 34"" - HDR"	nan	TD SYNNEX	2	8774.36
+DK	2.0	Monitors & TV	Monitors	"Samsung S27A400UJU - S4U Series - LED-skärm - Full HD (1080p) - 27"""	nan	TD SYNNEX	1	2196.1578
+NO	3.0	Monitors & TV	Monitors	"Samsung C34H890WGR - CH89 Series - LED-skärm - böjd - 34"""	nan	TD SYNNEX	1	5030.77
+SE	1.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A53 5G - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 256 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar (120 Hz) - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	TD SYNNEX	1	4787.52
+DK	23.0	Keyboard & Mice	Mouse - Wireless	Apple Magic Mouse - mus - Bluetooth	nan	TD SYNNEX	1	605.15
+NO	23.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7264.39
+SE	4.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	1	5096.59
+DK	34.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A32 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.4"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 8 MP, 5 MP, 5 MP - front camera 20 MP - fantastisk svart"	nan	Ingram	2	4893.9
+NO	234.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	7	35687.19
+SE	234.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	4	20392.48
+DK	243.0	Multimedia & Audio	Headsets	Poly Blackwire 8225-M - Headset - på örat - kabelansluten - aktiv brusradering - USB-A	nan	Ingram	2	2154.8
+NO	53.0	Computers	Workstations	HP Workstation Z2 G9 - tower - Core i9 12900K 3.2 GHz - vPro - 64 GB - SSD 1 TB - hela norden	nan	Ingram	1	33985.58
+SE	1.0	Networking	Access Point	Alcatel-Lucent Enterprise OmniAccess 510 Series W-AP515 - trådlös åtkomstpunkt - ZigBee, Bluetooth, Wi-Fi 6	nan	Ingram	3	24035.79
+DK	3.0	Monitors & TV	Monitors	"Dell UltraSharp U2422HE - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	1	2777.91
+NO	45.0	Monitors & TV	Monitors	"Dell P2422HE - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	1	2559.72
+SE	3.0	Multimedia & Audio	Headsets	Poly Blackwire 3320 - Microsoft Teams - 3300 Series - headset - på örat - kabelansluten - USB-C - Certifierad för Microsoft-teams	nan	Ingram	4	1328.24
+DK	5.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	2	501.52
+NO	3.0	Computers	Laptops	"HP ZBook Firefly 16 G9 Mobile Workstation - Intel Core i7 1280P / 1.8 GHz - vPro - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 32 GB RAM - 1 TB SSD NVMe, TLC - 16"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden"	nan	ALSO	1	20369.12
+SE	5.0	Mobiles & GPS	Mobile Phones	CAT B40 Bar Type ruggedized phone 4G	nan	ALSO	1	941.66
+DK	2.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	544.75
+NO	4.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+SE	3.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	544.75
+DK	56.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 14 Pro - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2556 x 1179 pixlar (120 Hz) - 3 st. bakre kameror 48 MP, 12 MP, 12 MP - front camera 12 MP - space black"	nan	Ingram	2	22702.86
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Lite - styrmatta - USB - röd	7350070000000.0	Ingram	1	1243.97
+SE	56.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	544.75
+DK	3.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	544.75
+NO	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	357.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	1	1316.49
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+NO	7.0	Accessories	Docking Solutions	Lenovo ThinkPad Hybrid USB-C with USB-A Dock - dockningsstation - USB-C - 2 x HDMI, 2 x DP - GigE	nan	Ingram	1	1492.86
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	11.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	233.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	3	5385.0
+DK	44.0	Projectors	Projectors	Optoma ML750e - DLP-projektor - 3D	5055390000000.0	Ingram	1	4822.85
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	2.0	Printing	Accessories - Printers	HP Second Exit Tray - utmatningsfack	nan	ALSO	1	395.52
+DK	3.0	Printing	Accessories - Printers	HP Second Exit Tray - utmatningsfack	nan	ALSO	1	395.52
+NO	1.0	Printing	Accessories - Printers	HP Second Exit Tray - utmatningsfack	nan	ALSO	1	395.52
+SE	23.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	1	3627.41
+DK	23.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	7	36443.26
+NO	4.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	5	18137.05
+SE	34.0	Ink, toner & consumables	Toner - Black	HP 26A - Svart - original - LaserJet - tonerkassett (CF226A) - för LaserJet Pro M402, MFP M426	889296000000.0	Ingram	1	1164.3
+DK	234.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	1	2655.0
+NO	234.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2062.0
+SE	243.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2062.0
+DK	53.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2069.0
+NO	1.0	Computers	Laptops	ThinkPad T14s G2	nan	TD SYNNEX	5	58120.8
+SE	3.0	Networking	Access Point	HPE Aruba Instant ON AP17 (RW) - trådlös åtkomstpunkt - Bluetooth, Wi-Fi 5	190017000000.0	TD Synnex	1	1733.61
+DK	45.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	TD SYNNEX	1	2727.75
+NO	3.0	Computers	Laptops	"Lenovo 500e Chromebook Gen 3 82JC - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" IPS pekskärm 1366 x 768 (HD) - Wi-Fi 6 - grå"	nan	TD Synnex	1	2459.06
+SE	5.0	Computers	Laptops	"Lenovo 500e Chromebook Gen 3 82JC - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" IPS pekskärm 1366 x 768 (HD) - Wi-Fi 6 - grå"	nan	TD Synnex	1	2459.06
+DK	3.0	Computers	Laptops	"Lenovo 500e Chromebook Gen 3 82JC - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" IPS pekskärm 1366 x 768 (HD) - Wi-Fi 6 - grå"	nan	TD Synnex	1	2459.06
+NO	5.0	Computers	Laptops	"Lenovo 500e Chromebook Gen 3 82JC - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" IPS pekskärm 1366 x 768 (HD) - Wi-Fi 6 - grå"	nan	TD Synnex	1	2459.06
+SE	2.0	Computers	Laptops	"Lenovo 500e Chromebook Gen 3 82JC - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" IPS pekskärm 1366 x 768 (HD) - Wi-Fi 6 - grå"	nan	TD Synnex	1	2459.06
+DK	4.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 256 GB - 10.2"""	194253000000.0	TD SYNNEX	1	5240.8
+NO	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 256 GB - 10.2"" - 3G, 4G"	194253000000.0	TD SYNNEX	10	66794.7
+SE	56.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+DK	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	7	35672.42
+NO	56.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	1	5206.18
+SE	3.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	3	752.28
+DK	5.0	Multimedia & Audio	Headsets	Bose Noise Cancelling Headphones 700 UC - Hörlurar med mikrofon - fullstorlek - Bluetooth - trådlös, kabelansluten - aktiv brusradering - ljudisolerande - svart - Certifierad för Microsoft-teams	17817820615.0	Triada	2	5878.5
+NO	357.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 260 - Headset - på örat - Bluetooth - trådlös - USB - svart - Certifierad för Microsoft-teams, Optimerad för UC - för ADAPT 230, 231, 261	5714710000000.0	Triada	5	5306.7
+SE	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+DK	7.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	828.0
+NO	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+SE	657.0	Multimedia & Audio	Headsets	Jabra Evolve 65 MS stereo - Headset - på örat - Bluetooth - trådlös - NFC - USB - Certifierad för Skype for Buisness	5706990000000.0	EET	1	1312.0
+DK	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+NO	67.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 5 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 64 GB - microSD slot - LCD-skärm - 5.3"" - 1480 x 720 pixlar - rear camera 16 MP - front camera 5 MP - svart"	nan	Ingram	1	2610.5493
+SE	35.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S21 FE 5G - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - OLED-skärm - 6.4"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 12 MP, 12 MP, 8 MP - front camera 32 MP - vit"	8806090000000.0	Ingram	1	5829.66
+DK	67.0	Computers	Laptops	"Apple MacBook Air - M1 - M1 7-core GPU - 8 GB RAM - 256 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - rymdgrå - kbd: Svenska/finska"	nan	Ingram	1	10154.6685
+NO	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - (PRODUCT) RED - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - röd"	nan	Ingram	1	5206.6785
+SE	65.0	Ink, toner & consumables	Toner - Black	HP 36A - Svart - original - LaserJet - tonerkassett (CB436A) - för LaserJet M1120 MFP, M1120n MFP, M1522n MFP, M1522nf MFP, P1505, P1505n, P1506	882781000000.0	Despec	1	824.48
+DK	73.0	Keyboard & Mice	Keyboard - Cable	Contour Balance Keyboard - Tangentbord - USB - hela norden	743870000000.0	Despec	2	1052.66
+NO	5.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Pro3 plus - rullmus - USB - svart	743870000000.0	Despec	2	3043.74
+SE	6.0	Ink, toner & consumables	Toner - Colour	OKI - Cyan - tonerkassett - för ES 5432dn, 5442dn, 5463 MFP, 5473 MFP	5031710000000.0	Despec	1	1099.36
+DK	2.0	Ink, toner & consumables	Toner - Black	Xerox - Hög kapacitet - svart - original - tonerkassett - för Xerox C230, C230/DNI, C230V_DNIUK, C235, C235/DNI, C235V_DNIUK	95205068894.0	TD SYNNEX	1	943.76
+NO	2.0	Monitors & TV	Digital Signage Displays	"Samsung QE55T QET Series - 55"" LED-bakgrundsbelyst LCD-skärm - 4K - för digital skyltning"	nan	Ingram	1	7657.01
+SE	56.0	Monitors & TV	Monitors	"HP EliteDisplay E243m - LED-skärm - Full HD (1080p) - 23.8"""	190781000000.0	Deltaco	2	3380.0
+DK	3.0	Monitors & TV	Monitors	"HP EliteDisplay E243m - LED-skärm - Full HD (1080p) - 23.8"""	190781000000.0	Deltaco	3	5070.0
+NO	456.0	Storage	Hard Drives - External	Samsung T7 MU-PC2T0H - SSD - 2 TB - USB 3.2 Gen 2	8806090000000.0	Exertis	10	16640.4
+SE	3.0	Storage	Hard Drives - External	Samsung T7 Shield MU-PE2T0K - SSD - 2 TB - USB 3.2 Gen 2	nan	Exertis	1	1664.04
+DK	56.0	Storage	Hard Drives - External	Samsung T7 MU-PC2T0H - SSD - 2 TB - USB 3.2 Gen 2	8806090000000.0	Exertis	10	16640.4
+NO	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 64 GB - 10.2"" - 3G, 4G"	194253000000.0	Ingram	1	5065.98
+SE	6.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	1	1884.0
+DK	1.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+NO	6.0	Networking	Access Point	Cambium Networks cnPilot E600 - trådlös åtkomstpunkt - Bluetooth, Wi-Fi 5 - molnhanterad	5704170000000.0	EET	14	62165.32
+SE	3.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+DK	56.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+NO	3.0	Printing	Barcode Readers	Honeywell Voyager 1400g2D - streckkodsskanner	5711050000000.0	EET	1	1678.0
+SE	56.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	1	1884.0
+DK	3.0	Multimedia & Audio	Headsets	Bose QuietComfort 45 - Hörlurar med mikrofon - fullstorlek - Bluetooth - trådlös - aktiv brusradering - ljudisolerande - trippelsvart	nan	Deltaco	2	7348.0
+NO	5.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 360 - Headset - fullstorlek - Bluetooth - trådlös - aktiv brusradering - svart - Certifierad för Microsoft-teams	5714710000000.0	Triada	2	3006.16
+SE	357.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 360 - Headset - fullstorlek - Bluetooth - trådlös - aktiv brusradering - svart - Certifierad för Microsoft-teams	5714710000000.0	Triada	2	3006.16
+DK	3.0	Storage	Hard Drives - External	Samsung T7 MU-PC2T0H - SSD - 2 TB - USB 3.2 Gen 2	8806090000000.0	Exertis	4	6823.04
+NO	7.0	Computers	Laptops	"Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180 graders gångsjärnskonstruktion - Intel Core i5 1240P / 1.7 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD TCG Opal Encryption 2, NVMe - 14"" IPS 1920 x 1200 - NFC, Wi-Fi 6E - djupsvart färg - kbd: nordiskt (danska/finska/norska/svenska) - med 3 års Lenovo Premier Support, Co2-kompensation 1 ton"	nan	Ingram	1	16178.38
+SE	3.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	1759.83
+DK	657.0	Computers	Laptops	"Apple MacBook Air - M2 - M2 10-core GPU - 8 GB RAM - 512 GB SSD - 13.6"" IPS 2560 x 1664 (WQXGA) - Wi-Fi 6 - midnatt - kbd: Svenska/finska"	nan	Ingram	1	14504.5
+NO	3.0	Multimedia & Audio	Video Conferencing	Owl Labs Meeting Owl 3 - konferenskamera	850022000000.0	Ingram	1	9058.71
+SE	67.0	Multimedia & Audio	Headsets	Owl Labs Expansion Mic - Mikrofon - micro-HDMI - för Owl Labs Meeting Owl 3	850022000000.0	Ingram	1	2168.22
+DK	35.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+NO	67.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	540.64
+SE	3.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	1	1316.49
+DK	65.0	Monitors & TV	Monitors	"Dell P2423DE - LED-skärm - QHD - 24"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3400.9071
+NO	73.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A52s 5G - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	Ingram	1	4108.39725
+SE	5.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+DK	6.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - blå"	nan	Ingram	1	6791.95
+NO	2.0	Multimedia & Audio	Headsets	Jabra Elite 3 - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - ljudisolerande - mörkgrå	5707060000000.0	Ingram	1	523.02
+SE	2.0	Mobiles & GPS	Mobile Phones	DORO 731X - 4G funktionstelefon - dual-SIM / Internal Memory 1.3 GB - microSD slot - 320 x 240 pixlar - rear camera 3 MP - grå	7322460000000.0	Ingram	1	1150.11
+DK	56.0	Computers	Laptops	"Dell XPS 15 9520 - Intel Core i7 12700H - Win 11 Pro - GF RTX 3050 Ti - 16 GB RAM - 1 TB SSD NVMe - 15.6"" 1920 x 1200 - Wi-Fi 6E - silver - med 1 års Dell ProSupport"	nan	ALSO	1	19930.02
+NO	3.0	Ink, toner & consumables	Toner - Black	HP 80A - Svart - original - LaserJet - tonerkassett (CF280A) - för LaserJet Pro 400 M401, MFP M425	886111000000.0	ALSO	2	2176.44
+SE	456.0	Storage	Hard Drives - External	WD Elements Portable WDBU6Y0050BBK - hårddisk - 5 TB - USB 3.0	718038000000.0	ALSO	5	6551.0
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Max - rullmus - USB - röd - med ArmSupport	743870000000.0	ALSO	1	3211.9
+NO	56.0	Projectors	Screens	"Elite Screens Manual Series M136XWS1 - projektorduk - 136"" (345 cm)"	6944900000000.0	ALSO	1	1221.92
+SE	3.0	Home Electronics	DVD Players	Sony DVP-SR370 - DVD-spelare	4905520000000.0	ALSO	3	1681.5
+DK	56.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	2	3410.0
+NO	3.0	Monitors & TV	Monitors	"DELL 27"" Skärm - P2722H"	nan	Ingram	4	9045.0024
+SE	56.0	Accessories	Docking Solutions	Dell Docking Station WD19S - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	nan	Ingram	1	1819.01
+DK	3.0	Multimedia & Audio	Headsets	Jabra Evolve 65 SE MS Mono - Headset - på örat - Bluetooth - trådlös - USB - Certifierad för Microsoft-teams - för Jabra Evolve; LINK 380a MS	nan	Ingram	1	1067.93
+NO	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+SE	357.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	2	3468.46
+DK	3.0	Accessories	Docking Solutions	Dell Docking Station WD19S - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	nan	Ingram	1	1937.24565
+NO	7.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	3.0	Monitors & TV	Monitors	"DELL 27"" Skärm - P2722H"	nan	Ingram	2	4522.5012
+DK	657.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	67.0	Multimedia & Audio	Headsets	Jabra Engage 75 Mono - Headset - på örat - DECT - trådlös - NFC	5706990000000.0	Ingram	1	2176.56
+DK	35.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+NO	56.0	Storage	Hard Drives - External	WD Elements Portable WDBU6Y0020BBK - hårddisk - 2 TB - USB 3.0	718038000000.0	Ingram	5	3855.95
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	2	3410.0
+DK	56.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+NO	3.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	539.7
+SE	5.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+DK	357.0	Monitors & TV	Monitors	"EIZO FlexScan EV2495-BK - med FlexStand - LED-skärm - 24.1"""	nan	Ingram	2	10541.34
+NO	3.0	Monitors & TV	Monitors	"EIZO FlexScan EV3285-BK - med FlexStand - LED-skärm - 4K - 31.5"""	4995050000000.0	Ingram	1	11953.13
+SE	7.0	Monitors & TV	Monitors	"HP E27 G4 - E-Series - LED-skärm - Full HD (1080p) - 27"""	nan	Ingram	1	2501.03
+DK	3.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Smart Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	2168.46
+NO	657.0	Monitors & TV	Digital Signage Displays	"Samsung QM50B QMB Series - 50"" LED-bakgrundsbelyst LCD-skärm - 4K - för digital skyltning"	8806090000000.0	Ingram	1	9090.09
+SE	3.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	2	3604.56
+DK	67.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+NO	35.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A52s 5G - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	Ingram	1	4107.46005
+SE	67.0	Accessories	Docking Solutions	Targus Universal DV4K Docking Station - dockningsstation - USB-C / Thunderbolt 3 - 2 x HDMI, 2 x DP - GigE	5051790000000.0	Ingram	1	2733.98
+DK	3.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+NO	65.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+SE	73.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	1	1953.0
+DK	5.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	ALSO	1	12597.9
+NO	6.0	Computers	Laptops	"HP ZBook Firefly 16 G9 Mobile Workstation - Intel Core i7 1265U / 1.8 GHz - vPro - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - T550 - 32 GB RAM - 1 TB SSD NVMe, TLC - 16"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden"	nan	ALSO	1	17114.19
+SE	2.0	Networking	Switch	HPE Aruba 2930F 48G 4SFP - switch - 48 portar - Administrerad - rackmonterbar	nan	Arrow	2	30984.0
+DK	2.0	Multimedia & Audio	Headsets	Jabra Evolve 75 SE MS Stereo - Headset - på örat - Bluetooth - trådlös - aktiv brusradering - USB - med laddningsställ - Certifierad för Microsoft-teams - för LINK 380a MS	nan	Westcon	1	2389.6
+NO	56.0	Multimedia & Audio	Headsets	Jabra Evolve 75 SE MS Stereo - Headset - på örat - Bluetooth - trådlös - aktiv brusradering - USB - med laddningsställ - Certifierad för Microsoft-teams - för LINK 380a MS	nan	Westcon	1	2389.6
+SE	3.0	Memory	USB	Apricorn Aegis Secure Key 3z - USB flash-enhet - 128 GB	708327000000.0	EET	2	5348.0
+DK	456.0	Keyboard & Mice	Desktop Sets	Logitech MK270 Wireless Combo - sats med tangentbord och mus - nordisk	5099210000000.0	EET	2	612.0
+NO	3.0	Computers	Laptops	"ASUS Chromebook Flip CX5 CX5400FMA-AI0084 - Flipputformning - Intel Core i3 1110G4 / 2.5 GHz - Chrome OS - UHD Graphics - 8 GB RAM - 128 GB SSD NVMe - 14"" pekskärm 1920 x 1080 (Full HD) - Wi-Fi 6 - aluminiumblå"	nan	Exertis	1	5896.41
+SE	56.0	Computers	Laptops	"ASUS Chromebook Flip CX5 CX5400FMA-AI0084 - Flipputformning - Intel Core i3 1110G4 / 2.5 GHz - Chrome OS - UHD Graphics - 8 GB RAM - 128 GB SSD NVMe - 14"" pekskärm 1920 x 1080 (Full HD) - Wi-Fi 6 - aluminiumblå"	nan	Exertis	1	5786.0
+DK	3.0	Monitors & TV	Digital Signage Displays	"Samsung QE65T QET Series - 65"" LED-bakgrundsbelyst LCD-skärm - 4K - för digital skyltning"	nan	Ingram	1	10007.9
+NO	4.0	Keyboard & Mice	Desktop Sets	Logitech MK270 Wireless Combo - sats med tangentbord och mus - nordisk	5099210000000.0	EET	1	306.0
+SE	345.0	Multimedia & Audio	Headsets	Jabra Evolve 65 MS stereo - Headset - på örat - Bluetooth - trådlös - NFC - USB - Certifierad för Skype for Buisness	5706990000000.0	EET	1	1350.92
+DK	3.0	Computers	Laptops	LATI3310 1.1.2 ELEV/LARARDATOR1 16987092	nan	Ingram	2	11810.85
+NO	45.0	Computers	Laptops	"Lenovo ThinkPad P15v Gen 2 21A9 - Intel Core i7 11800H / 2.3 GHz - Win 10 Pro 64-bitars - T600  - 16 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe - 15.6"" IPS 1920 x 1080 (Full HD) - Wi-Fi 6 - svart - kbd: Nordisk - med 3 års Lenovo Premier Support, Co2-kompensation 1 ton"	nan	Ingram	1	17832.19
+SE	nan	Computers	Laptops	LATI3310 1.1.2 ELEV/LARARDATOR1 16987092	nan	Ingram	1	5905.425
+DK	34.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	10	2507.6
+NO	5.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Wireless - rullmus - svart	743870000000.0	ALSO	1	2655.65
+SE	34.0	Printing	Scanners	Canon CanoScan LiDE 300 - Integrerad flatbäddsskanner - desktop - USB 2.0	4549290000000.0	ALSO	1	679.28
+DK	5.0	Storage	Hard Drives - External	Seagate Basic STJL2000400 - hårddisk - 2 TB - USB 3.0	3660620000000.0	ALSO	1	540.8
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	ALSO	1	2632.09
+SE	45.0	Ink, toner & consumables	Toner - Black	HP 59X - Lång livslängd - svart - original - LaserJet - tonerkassett (CF259X) - för LaserJet Enterprise M406, MFP M430; LaserJet Pro M304, M404, MFP M428	192018000000.0	TD SYNNEX	1	2164.64
+DK	3.0	Ink, toner & consumables	Toner - Colour	HP 410A - Cyan - original - LaserJet - tonerkassett (CF411A) - för Color LaserJet Pro M452, MFP M377, MFP M477	nan	TD SYNNEX	2	2330.78
+NO	45.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	45.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	5.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1664.64
+DK	3.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+NO	1.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+SE	6.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1673.28
+DK	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	1.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+SE	76.0	Accessories	Docking Solutions	i-Tec - dockningsstation - USB-C / Thunderbolt 3 - HDMI, DP - GigE	8595610000000.0	Ingram	1	2132.82225
+DK	8.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	7.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	3	37589.67
+SE	9.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+DK	6.0	Multimedia & Audio	Headsets	Sony WH-1000XM5 Headset Wired & Wireless Head-band Calls/Music Bluetoo	nan	Deltaco	1	3590.0
+NO	980.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	Despec	1	2200.95
+SE	6.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Lite - styrmatta - USB - svart	7350070000000.0	Ingram	1	1423.0
+DK	798.0	Networking	Switch - KVM	HPE KVM Console G4 Switch 1x2x16 - omkopplare för tangentbord/video/mus - 16 portar - rackmonterbar	nan	TD SYNNEX manuell	1	13843.47
+NO	6.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	193639000000.0	TD SYNNEX	3	8680.53
+SE	7.0	Monitors & TV	Monitors	"Dell UltraSharp U2422HE - LED-skärm - Full HD (1080p) - 24"""	nan	TD SYNNEX	1	2860.33
+DK	1.0	Monitors & TV	Monitors	"Samsung S24A400UJU - S4U Series - LED-skärm - Full HD (1080p) - 24"""	nan	TD SYNNEX	4	7495.76
+NO	8.0	Monitors & TV	Monitors	"Samsung S27A400UJU - S4U Series - LED-skärm - Full HD (1080p) - 27"""	nan	TD SYNNEX	2	4124.24
+SE	9.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A53 5G - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar (120 Hz) - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk blå"	8806090000000.0	TD SYNNEX	1	3717.0
+DK	1.0	Computers	Desktop	"Apple iMac with 4.5K Retina display - allt-i-ett - M1 - 8 GB - SSD 256 GB - LED 24"" - Svenska/finska"	nan	TD SYNNEX	1	13093.94
+NO	0.0	Monitors & TV	Monitors	"Samsung C34H890WGR - CH89 Series - LED-skärm - böjd - 34"""	nan	TD SYNNEX	1	5030.77
+SE	0.0	Computers	Laptops	"MacBook Pro 14"" Space Gray/M1 Max 10-Core CPU & 24-Core GPU/32GB RAM/512GB SSD/Swedish Keyboard/96W Power Adapter"	nan	TD SYNNEX	1	24817.34
+DK	1.0	Computers	Laptops	P1 Gen5 i7 64GB / 1TB / Premier Support - Euro English KB	nan	TD Synnex	2	54909.08
+NO	9.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD Synnex	15	54030.0
+SE	8.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	Despec	1	1532.72
+DK	73.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	Despec	1	1532.72
+NO	45.0	Ink, toner & consumables	Toner - Colour	HP 410A - Cyan - original - LaserJet - tonerkassett (CF411A) - för Color LaserJet Pro M452, MFP M377, MFP M477	nan	TD SYNNEX	1	1165.39
+SE	4.0	Cables	USB Cables	HP 100W - USB typ C-kabel - USB-C till USB-C	nan	TD Synnex	10	3382.1
+DK	5.0	Cables	USB Cables	HP 100W - USB typ C-kabel - USB-C till USB-C	nan	TD Synnex	3	1014.63
+NO	345.0	Monitors & TV	Monitors	"Samsung S24R650FDU - SR650 Series - LED-skärm - Full HD (1080p) - 24"""	8806090000000.0	TD SYNNEX	2	3650.18
+SE	2.0	Accessories	Docking Solutions	HP USB-C mini Dock - dockningsstation - USB-C - VGA, HDMI - GigE	190782000000.0	TD SYNNEX	1	931.92
+DK	3.0	Multimedia & Audio	Headsets	Apple AirPods with Lightning Charging Case - 3rd generation - true wireless earphones with mic - ear-bud - Bluetooth - white	194253000000.0	TD SYNNEX	2	3473.48
+NO	1.0	Monitors & TV	Monitors	"HP E27m G4 Conferencing Monitor - E-Series - LED-skärm - QHD - 27"""	nan	TD SYNNEX	1	4187.46
+SE	23.0	Accessories	Remotes	Apple Siri Remote 3rd Generation fjärrkontroll	194253000000.0	TD SYNNEX	2	1076.04
+DK	23.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 64 GB - 10.2"" - 3G, 4G"	194253000000.0	TD SYNNEX	4	20265.92
+NO	4.0	Power-adaptors & UPS	Power Adapters	Apple USB-C - strömadapter - 140 Watt	nan	TD SYNNEX	3	2423.94
+SE	34.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	1	3602.84
+DK	234.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	1	3602.84
+NO	234.0	Keyboard & Mice	Desktop Sets	CHERRY STREAM DESKTOP - sats med tangentbord och mus - hela norden - svart	4025110000000.0	Ingram	2	1031.96
+SE	243.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+DK	53.0	Ink, toner & consumables	Toner - Black	HP 410A - Svart - original - LaserJet - tonerkassett (CF410A) - för Color LaserJet Pro M452, MFP M377, MFP M477	888794000000.0	Ingram	1	874.01
+NO	1.0	Ink, toner & consumables	Toner - Colour	HP 410A - Gul - original - LaserJet - tonerkassett (CF412A) - för Color LaserJet Pro M452, MFP M377, MFP M477	888794000000.0	Ingram	1	1128.78
+SE	3.0	Ink, toner & consumables	Toner - Colour	HP 410A - Magenta - original - LaserJet - tonerkassett (CF413A) - för Color LaserJet Pro M452, MFP M377, MFP M477	888794000000.0	Ingram	1	1128.78
+DK	45.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+NO	3.0	Ink, toner & consumables	Toner - Black	HP 59X - Lång livslängd - svart - original - LaserJet - tonerkassett (CF259X) - för LaserJet Enterprise M406, MFP M430; LaserJet Pro M304, M404, MFP M428	192018000000.0	Ingram	1	2057.6
+SE	5.0	Keyboard & Mice	Desktop Sets	CHERRY STREAM DESKTOP - sats med tangentbord och mus - hela norden - svart	4025110000000.0	Ingram	2	1031.96
+DK	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A32 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.4"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 8 MP, 5 MP, 5 MP - front camera 20 MP - fantastisk svart"	nan	Ingram	1	2608.1211
+NO	5.0	Multimedia & Audio	Headsets	Jabra Evolve 65 SE MS Mono - Headset - på örat - Bluetooth - trådlös - USB - Certifierad för Microsoft-teams - för Jabra Evolve; LINK 380a MS	nan	Ingram	1	1075.54
+SE	2.0	Keyboard & Mice	Mouse - Cable	CHERRY MC 1000 - mus - USB - svart	4025110000000.0	Ingram	5	392.75
+DK	4.0	Accessories	Card reader	CHERRY SmartTerminal ST-1144 - SMART-kortläsare - USB 2.0	4025110000000.0	Ingram	1	263.67
+NO	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	TD SYNNEX	2	9837.06
+SE	56.0	Accessories	Docking Solutions	Dell Universal Dock - D6000 - dockningsstation - USB - GigE	nan	Deltaco	1	1890.0
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1795.0
+NO	56.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	3.0	Monitors & TV	Monitors	"Dell P2723DE - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3810.0162
+DK	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Lite - styrmatta - USB - svart	7350070000000.0	Ingram	2	2487.94
+NO	357.0	Monitors & TV	Monitors	"Dell S2722QC - LED-skärm - 4K - 27"" - HDR"	nan	Ingram	1	3580.13
+SE	3.0	Monitors & TV	Monitors	"HP E27q G4 - E-Series - LED-skärm - 27"""	nan	Ingram	2	6196.7
+DK	7.0	Monitors & TV	Monitors	"Dell P2723DE - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3810.0162
+NO	3.0	Monitors & TV	Monitors	"Dell P2723DE - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3810.0162
+SE	1.0	Monitors & TV	Monitors	"Dell P2723DE - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3810.0162
+DK	11.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	1	1953.0
+NO	233.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	44.0	Monitors & TV	Monitors	"Dell P2723DE - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	2	7662.6324
+DK	1.0	Keyboard & Mice	Mice - Ergonomic	Contour UniMouse - mus - USB, 2.4 GHz - skiffer	743870000000.0	ALSO	1	682.28
+NO	2.0	Computers	Laptops	"HP ZBook Firefly 16 G9 Mobile Workstation - Intel Core i7 1265U / 1.8 GHz - vPro - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - T550 - 32 GB RAM - 1 TB SSD NVMe, TLC - 16"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden"	nan	ALSO	1	17114.19
+SE	3.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Svart - original - LaserJet - tonerkassett (W2410A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	ALSO	1	472.49
+DK	1.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	ALSO	7	11528.02
+NO	23.0	Monitors & TV	Monitors	"Philips S-line 275S1AE - LED-skärm - 27"""	nan	ALSO	2	4625.4
+SE	23.0	Ink, toner & consumables	Toner - Black	HP W9190MC - Svart - original - LaserJet - tonerkassett (W9190MC) Contract - för LaserJet Managed MFP E77422dv, MFP E77822dn, MFP E77825dn, MFP E77830dn	nan	ALSO	1	402.96
+DK	4.0	Monitors & TV	Monitors	"Philips S-line 275S1AE - LED-skärm - 27"""	nan	ALSO	2	4623.96
+NO	34.0	Ink, toner & consumables	Toner - Colour	HP 128A - Magenta - original - LaserJet - tonerkassett (CE323A) - för Color LaserJet Pro CP1525n, CP1525nw; LaserJet Pro CM1415fn, CM1415fnw	884421000000.0	ALSO	1	712.92
+SE	234.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	ALSO	2	4308.78
+DK	234.0	Monitors & TV	Monitors	"Philips S-line 275S1AE - LED-skärm - 27"""	nan	ALSO	2	4639.08
+NO	243.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+SE	53.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+DK	1.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2063.55
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2052.73
+SE	45.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Free3 - rullmus - USB - svart	743870000000.0	Despec	1	1786.18
+DK	3.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 561 II - ADAPT 500 Series - headset - på örat - Bluetooth - trådlös - aktiv brusradering - Zoomcertifierad, Certifierad för Microsoft-teams, Optimerad för UC, Optimerat för Google Meet	5714710000000.0	Triada	3	4517.13
+NO	5.0	Accessories	Docking Solutions	HP USB-C Dock G5-EMEA - INTL English Loc - Euro-kontakt	nan	HP PPS Sverige AB Manuell	3	2991.0
+SE	3.0	Computers	Laptops	Dell Mobile Precision Workstation 3571 3571 CTO[i7/32gb/512gb/Touch]	nan	DELL	1	16345.0
+DK	5.0	Computers	Laptops	Dell Latitude 5430  XCTO i3	nan	DELL	1	7025.0
+NO	2.0	Networking	Switch	HPE Aruba 6100 24G Class4 PoE 4SFP+ - switch - 28 portar - Administrerad - rackmonterbar	nan	Arrow	1	14624.56
+SE	4.0	Accessories	Docking Solutions	Dell Thunderbolt Dock WD22TB4 - dockningsstation - Thunderbolt 4 - HDMI, 2 x DP, 2 x Thunderbolt, USB-C - GigE	5704170000000.0	EET	1	3027.0
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	EET	1	1534.22
+NO	56.0	Keyboard & Mice	Mouse - Wireless	Microsoft Arc Mouse - mus - Bluetooth 4.1 LE - svart	889842000000.0	EET	1	656.0
+SE	3.0	Networking	Switch	ATEN US224 2-Port USB Peripheral Sharing Device - USB-växel	4710420000000.0	EET	9	1530.0
+DK	56.0	Monitors & TV	Monitors	"Lenovo ThinkVision T24i-2L - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	1864.26
+NO	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 mini - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 5.4"" - 2340 x 1080 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - rosa"	nan	Ingram	1	6258.69
+SE	5.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	1	3627.41
+DK	357.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S20 FE 5G - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 12 MP, 12 MP, 8 MP - front camera 32 MP - marinblått moln"	nan	Ingram	1	5494.85
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	2	3410.0
+SE	7.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Cyan - original - LaserJet - tonerkassett (W2411A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	495.56
+DK	3.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Magenta - original - LaserJet - tonerkassett (W2413A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	495.56
+NO	657.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED display - 6.1"" - 2532 x 1170 pixels - 2x rear cameras 12 MP, 12 MP - front camera 12 MP - pink"	nan	Ingram	1	7401.4
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	67.0	Ink, toner & consumables	Toner - Colour	HP 410A - Magenta - original - LaserJet - tonerkassett (CF413A) - för Color LaserJet Pro M452, MFP M377, MFP M477	888794000000.0	Ingram	2	2257.56
+NO	35.0	Ink, toner & consumables	Toner - Colour	HP 410A - Gul - original - LaserJet - tonerkassett (CF412A) - för Color LaserJet Pro M452, MFP M377, MFP M477	888794000000.0	Ingram	1	1128.78
+SE	67.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	3.0	Multimedia & Audio	Headsets	Huawei FreeBuds 4i - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - kolsvart	nan	Ingram	2	1219.48
+NO	65.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	73.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2059.0
+DK	5.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Free3 - rullmus - USB - svart	743870000000.0	Despec	2	3572.36
+NO	6.0	Printing	Accessories - Printers	HP BLK Managed LaserJet Toner Crtg	nan	Despec	1	903.78
+SE	2.0	Printing	Accessories - Printers	HP BLK Managed LaserJet Toner Crtg	nan	Despec	1	903.78
+DK	2.0	Printing	Accessories - Printers	HP BLK Managed LaserJet Toner Crtg	nan	Despec	1	903.78
+NO	56.0	Keyboard & Mice	Mice - Ergonomic	Contour Balance Keyboard WL and RollerMouse Red plus WL - sats med tangentbord och rullmus	743870000000.0	Despec	1	2693.98
+SE	3.0	Monitors & TV	Monitors	"HP E34m G4 Conferencing Monitor - E-Series - LED-skärm - böjd - 34"""	nan	Ingram	11	63040.45
+DK	456.0	Computers	Laptops	"Apple MacBook Air - M1 - M1 7-core GPU - 8 GB RAM - 256 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - rymdgrå - kbd: Svenska/finska"	nan	Ingram	1	9534.9
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+SE	56.0	Monitors & TV	Monitors	"HP EliteDisplay E243m - LED-skärm - Full HD (1080p) - 23.8"""	190781000000.0	Deltaco	4	6760.0
+DK	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	5	18137.05
+NO	6.0	Computers	Laptops	Bärbar dator Standard  (T14 gen3)	nan	Ingram	1	9162.0
+SE	1.0	Computers	Laptops	"Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180 graders gångsjärnskonstruktion - Intel Core i5 1240P / 1.7 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD TCG Opal Encryption 2, NVMe - 14"" IPS 1920 x 1200 - NFC, Wi-Fi 6E - djupsvart färg - kbd: nordiskt (danska/finska/norska/svenska) - med 3 års Lenovo Premier Support, Co2-kompensation 1 ton"	nan	Ingram	1	16178.38
+DK	6.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	1759.83
+NO	3.0	Computers	Laptops	Bärbar dator Standard  (T14 gen3)	nan	Ingram	1	9162.0
+SE	56.0	Computers	Laptops	Bärbar dator Standard  (T14 gen3)	nan	Ingram	1	9162.0
+DK	3.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+NO	56.0	Multimedia & Audio	Video Conferencing	Owl Labs Meeting Owl 3 - konferenskamera	850022000000.0	Ingram	1	9084.94
+SE	3.0	Printing	Barcode Readers	Datalogic PowerScan PBT9501-HP - streckkodsskanner	nan	Ingram	1	6403.0
+DK	5.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+NO	357.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2063.55
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2063.55
+DK	7.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	15	3761.4
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus Wireless - rullmus - svart	743870000000.0	ALSO	1	2678.85
+SE	657.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	ALSO	1	2632.09
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2655.06
+NO	67.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2063.55
+SE	35.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+DK	67.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.15
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Free3 - rullmus - USB - svart	743870000000.0	Despec	3	5358.54
+SE	65.0	Keyboard & Mice	Keyboard - Cable	Contour Balance Keyboard - Tangentbord - USB - hela norden	743870000000.0	Despec	1	740.26
+DK	73.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	10	2507.6
+NO	5.0	Monitors & TV	Televisions	"LG 65UR640S9ZD UR640S Series - 65"" LED-bakgrundsbelyst LCD-TV - 4K - för digital skyltning/gästanläggning"	nan	ALSO	4	36508.76
+SE	6.0	Monitors & TV	Televisions	"LG 55UR640S9ZD UR640S Series - 55"" LED-bakgrundsbelyst LCD-TV - 4K - för digital skyltning/gästanläggning"	nan	ALSO	1	6461.97
+DK	2.0	Multimedia & Audio	Wireless video & audio	Microsoft Wireless Display Adapter - v2 - trådlös ljud-/videoförlängare	889842000000.0	ALSO	2	986.04
+NO	2.0	Monitors & TV	Monitors	"Philips S-line 275S1AE - LED-skärm - 27"""	nan	ALSO	1	2401.29
+SE	56.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	546.04
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 11 - 4G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 6.1"" - 1792 x 828 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - svart"	nan	Ingram	1	4508.16
+NO	456.0	Keyboard & Mice	Desktop Sets	CHERRY STREAM DESKTOP - sats med tangentbord och mus - hela norden - svart	4025110000000.0	Ingram	1	515.98
+SE	3.0	Monitors & TV	Monitors	"HP P34hc G4 - P-Series - LED-skärm - böjd - 34"""	nan	Ingram	1	3680.23
+DK	56.0	Keyboard & Mice	Keyboards - Ergonomic	Mousetrapper Alpha - tangentbord - med pekplatta	7350070000000.0	Ingram	1	2167.0
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	2	3468.46
+SE	56.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - blå"	nan	Ingram	1	6791.95
+NO	56.0	Home Electronics	Media Player	Apple TV 4K (Wi-Fi) 3:e generationen - AV-spelare	194253000000.0	Ingram	4	5837.84
+SE	3.0	Home Electronics	Media Player	Apple TV 4K (Wi-Fi + Ethernet) 3:e generationen - AV-spelare	194253000000.0	Ingram	1	1605.44
+DK	5.0	Printing	Printers - Laser (Mono)	HP LaserJet M209dwe - skrivare - svartvit - laser	nan	Ingram	1	1203.06
+NO	357.0	Monitors & TV	Monitors	"Lenovo ThinkVision T24i-2L - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	2113.74
+SE	3.0	Accessories	Docking Solutions	Dell Docking Station WD19S - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	nan	Ingram	1	1819.01
+DK	7.0	Multimedia & Audio	Headsets	Jabra Evolve 65 SE MS Mono - Headset - på örat - Bluetooth - trådlös - USB - Certifierad för Microsoft-teams - för Jabra Evolve; LINK 380a MS	nan	Ingram	2	2151.08
+NO	3.0	Monitors & TV	Monitors	"HP E34m G4 Conferencing Monitor - E-Series - LED-skärm - böjd - 34"""	nan	Ingram	1	5609.32
+SE	657.0	Accessories	Docking Solutions	Dell Universal Dock - UD22 - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	5397180000000.0	Ingram	2	4879.4466
+DK	3.0	Digital Cameras & Video	Webcams	Logitech C505e - webbkamera	nan	Ingram	1	492.6051
+NO	67.0	Monitors & TV	Monitors	"Dell P2722H - LED-skärm - Full HD (1080p) - 27"""	nan	Ingram	1	2197.22
+SE	35.0	Accessories	Docking Solutions	Dell Docking Station WD19S - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	nan	Ingram	1	1819.01
+DK	56.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S21 FE 5G - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - OLED-skärm - 6.4"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 12 MP, 12 MP, 8 MP - front camera 32 MP - grafit"	nan	Ingram	1	6320.0934
+NO	3.0	Monitors & TV	Monitors	"Lenovo ThinkVision T24i-2L - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	2113.74
+SE	56.0	Monitors & TV	Monitors	"HP E34m G4 Conferencing Monitor - E-Series - LED-skärm - böjd - 34"""	nan	Ingram	2	11218.64
+DK	3.0	Computers	Desktop	Apple Mac mini - M1 - 8 GB - SSD 512 GB	nan	Ingram	1	7736.79
+NO	5.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	2	399.92
+SE	357.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	2063.55
+DK	3.0	Keyboard & Mice	Digital Pens	Apple Pencil 1st Generation - penna för surfplatta	194254000000.0	Ingram	1	1172.15629
+NO	7.0	Computers	Laptops	"Apple MacBook Air - M1 - M1 7-core GPU - 8 GB RAM - 256 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - rymdgrå - kbd: Svenska/finska"	nan	Ingram	1	9534.9
+SE	3.0	Printing	Printers - Label	Zebra GK Series GK420t - etikettskrivare - svartvit - direkt termisk/termisk överföring	nan	Deltaco	1	3597.0
+DK	657.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 660 - Headset - fullstorlek - Bluetooth - trådlös - NFC - aktiv brusradering - svart - Certifierad för Skype for Buisness, Certifierad för Microsoft-teams	4044160000000.0	Triada	3	8000.91
+NO	3.0	Networking	Router	Teltonika RUT240 - trådlös router - WWAN - 802.11b/g/n - 3G, 4G, 2G - skrivbordsmodell, DIN-skenmonterbar	nan	Exertis	1	1634.57
+SE	67.0	Networking	Router	Teltonika RUT240 - trådlös router - WWAN - 802.11b/g/n - 3G, 4G, 2G - skrivbordsmodell, DIN-skenmonterbar	nan	Exertis	1	1634.57
+DK	35.0	Storage	Hard Drives - External	LaCie Mobile Drive STLP2000400 - hårddisk - 2 TB - USB 3.2 Gen 1	nan	ALSO	2	2007.26
+NO	67.0	Computers	Workstations	Lenovo ThinkStation P360 - tower - Core i9 12900K 3.2 GHz - vPro Enterprise - 64 GB - SSD 1 TB - nordiskt (danska/finska/norska/svenska)	nan	ALSO	1	16714.78
+SE	3.0	Components	Graphics Cards	NVIDIA RTX A4000 - grafikkort - RTX A4000 - 16 GB	nan	ALSO	1	11061.76
+DK	65.0	Storage	Hard Drives - SSD	Lenovo ThinkPad - SSD - 2 TB - PCIe 4.0 x4 (NVMe)	nan	ALSO	1	2888.56
+NO	73.0	Accessories	Mounting & accessories - PC/system	Lenovo ThinkCentre M.2 SSD Kit III - installationskit för lagring	nan	ALSO	1	68.26
+SE	5.0	Printing	Printers - Multifunction	HP LaserJet Pro MFP 4102fdwe - multifunktionsskrivare - svartvit - with HP+	nan	ALSO	1	4045.69
+DK	6.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	ALSO	1	2848.22
+NO	2.0	Monitors & TV	Televisions	"Samsung UE55AU6905K 6 Series - 55"" LED-bakgrundsbelyst LCD-TV - 4K"	nan	ALSO	1	5113.48
+SE	2.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	ALSO	1	1541.45
+DK	56.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2668.55
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	2	5337.1
+SE	456.0	Printing	Scanner - document	Brother ADS-4700W - dokumentskanner - desktop - USB 3.0, LAN, Wi-Fi(n), USB 2.0 (Host)	4977770000000.0	ALSO	1	4028.71
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - midnatt"	nan	Ingram	1	7401.4
+NO	56.0	Computers	Laptops	"Apple MacBook Air - M1 - M1 7-core GPU - 8 GB RAM - 256 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - silver - kbd: Svenska/finska"	nan	Ingram	2	19069.8
+SE	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+DK	4.0	Projectors	Projectors	Optoma EH400 - DLP-projektor - bärbar - 3D	5055390000000.0	EET	1	6760.0
+NO	345.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1678.15
+SE	3.0	Accessories	Docking Solutions	WD19S 130W 16763319	nan	Ingram	4	5808.9786
+DK	45.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - midnatt"	nan	Ingram	1	7401.4
+NO	nan	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	1802.28
+SE	34.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A52s 5G - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	Ingram	1	4148.73945
+DK	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	2	3631.65
+NO	34.0	Computers	Laptops	"Lenovo Legion 7 16ACHg6 82N6 - AMD Ryzen 7 5800H / 3.2 GHz - Win 11 Home - GF RTX 3080  - 16 GB RAM - 1 TB SSD - 16"" IPS 2560 x 1600 (WQXGA) @ 165 Hz - Wi-Fi 6 - åskmolnsgrå - kbd: Nordisk"	nan	ALSO	1	22555.86
+SE	5.0	Monitors & TV	Monitors	"Philips P-line 346P1CRH - LED-skärm - böjd - 34"" - HDR"	nan	ALSO	1	5752.82
+DK	3.0	Storage	Hard Drives - External	LaCie Mobile Drive STLP2000400 - hårddisk - 2 TB - USB 3.2 Gen 1	nan	ALSO	1	1003.63
+NO	45.0	Keyboard & Mice	Keyboard - Cable	Microsoft Surface Pro Signature Keyboard - Tangentbord - med pekplatta, accelerometer, Förvarings- och laddningsfack för Surface Slim Pen 2 - nordiskt (danska/finska/norska/svenska) - svart - kommersiell - med Slim Pen 2 - för Surface Pro 8, Pro X	nan	Ingram	1	1964.0
+SE	3.0	Computers	Laptops	LATI 3420 I5-1135G7 8G/256G 16771707/3	nan	Ingram	1	7337.85
+DK	45.0	Multimedia & Audio	Headsets	Jabra Elite 3 - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - ljudisolerande - mörkgrå	5707060000000.0	Ingram	1	521.8
+NO	3.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	nan	TD SYNNEX	1	2922.88
+SE	45.0	Printing	Printers - Multifunction	HP Color Laser MFP 178nw - multifunktionsskrivare - färg	193016000000.0	TD SYNNEX	1	2864.42
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+NO	5.0	Networking	Service & Support	1 Year Enterprise Subscription for LoadMaster VLM-200. Includes 7x24 Telephone & E-Mail Support, securitynotifications, hotfixes, software udpates, KEMP 360 Central management and automation                	nan	IT2Trust	2	17538.54291
+SE	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 64 GB - 10.2"" - 3G, 4G"	194253000000.0	Ingram	2	10131.96
+DK	1.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7224.42
+NO	6.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+SE	1.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7224.42
+DK	1.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 5 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 64 GB - microSD slot - LCD-skärm - 5.3"" - 1480 x 720 pixlar - rear camera 16 MP - front camera 5 MP - svart"	nan	Ingram	1	2610.02745
+NO	76.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	193639000000.0	TD SYNNEX	2	5695.2
+SE	8.0	Monitors & TV	Monitors	"Philips B Line 345B1C - LED-skärm - böjd - 34"""	nan	TD SYNNEX	1	4030.29
+DK	7.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 256 GB - 10.2"""	194253000000.0	TD SYNNEX	1	5240.76
+NO	9.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 64 GB - 10.2"" - 3G, 4G"	194253000000.0	TD SYNNEX	1	5066.48
+SE	6.0	Monitors & TV	Monitors	"HPE LCD8500 - KVM-konsol - 18.51"""	887759000000.0	TD SYNNEX	1	8726.0
+DK	980.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	2	19294.64
+NO	6.0	Computers	Tablets	"Apple 12.9-inch iPad Pro Wi-Fi + Cellular - 6:e generation - surfplatta - 256 GB - 12.9"" - 3G, 4G, 5G"	194253000000.0	TD SYNNEX	1	14832.31
+SE	798.0	Multimedia & Audio	Headsets	Jabra Evolve 75 SE MS Stereo - Headset - på örat - Bluetooth - trådlös - aktiv brusradering - USB - med laddningsställ - Certifierad för Microsoft-teams - för LINK 380a MS	nan	Westcon	1	2402.84
+DK	6.0	Networking	Switch	ATEN US224 2-Port USB Peripheral Sharing Device - USB-växel	4710420000000.0	EET	2	340.0
+NO	7.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	792.0
+SE	1.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	792.0
+DK	8.0	Monitors & TV	Monitors	"Dell P2719H - LED-skärm - Full HD (1080p) - 27"""	5704170000000.0	EET	2	9420.0
+NO	9.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	2	3768.0
+SE	1.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	80	290192.8
+DK	0.0	Monitors & TV	Monitors	"HP EliteDisplay E243m - LED-skärm - Full HD (1080p) - 23.8"""	190781000000.0	Deltaco	3	5070.0
+NO	0.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2074.0
+SE	1.0	Monitors & TV	Monitors	"ASUS ZenScreen Touch MB16AMT - LCD-skärm - Full HD (1080p) - 15.6"""	4718020000000.0	Exertis	1	3743.89
+DK	9.0	Computers	Tablets	"Samsung Galaxy Tab Active 4 Pro - surfplatta - Android - 128 GB - 10.1"" - 3G, 4G, 5G"	nan	Ingram	1	7183.82
+NO	8.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Lite - styrmatta - USB - svart	7350070000000.0	Ingram	1	1243.97
+SE	73.0	Networking	Network Adapters	Broadcom BCM57412 - nätverksadapter - OCP 3.0 - 1Gb Ethernet / 10Gb Ethernet SFP+ x 2	nan	Arrow	6	13228.2
+DK	45.0	Servers	Accessories	Broadcom BCM57412 - nätverksadapter - PCIe 3.0 x8 - 1Gb Ethernet / 10Gb Ethernet SFP+ x 2	nan	Arrow	6	16619.94
+NO	4.0	Keyboard & Mice	Keyboard - Cable	Contour Balance Keyboard - Tangentbord - USB - hela norden	743870000000.0	EET	1	537.58
+SE	5.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	1	1884.0
+DK	345.0	Monitors & TV	Monitors	Dell 24 P2422H skärm 	nan	DELL	1	1705.0
+NO	2.0	Monitors & TV	Monitors	Dell 24 P2422H skärm 	nan	DELL	14	23870.0
+SE	3.0	Computers	Laptops	Dell Latitude 5430	nan	DELL	15	113445.0
+DK	1.0	Accessories	Docking Solutions	Dell Thunderbolt Dock WD22TB4, 180W	nan	DELL	1	2930.0
+NO	23.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 64 GB - 10.2"" - 3G, 4G"	194253000000.0	TD SYNNEX	1	5066.48
+SE	23.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	20	72056.8
+DK	4.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	20	72056.8
+NO	34.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	10	96473.2
+SE	234.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	4	6299.56
+DK	234.0	Networking	Access Point	Ubiquiti UniFi 6 Lite - trådlös åtkomstpunkt - Wi-Fi 6	nan	EET	1	1051.87
+NO	243.0	Keyboard & Mice	Desktop Sets	Logitech MK270 Wireless Combo - sats med tangentbord och mus - nordisk	5099210000000.0	EET	1	306.0
+SE	53.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	1	1405.71
+DK	1.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	Ingram	1	1721.11
+NO	3.0	Monitors & TV	Monitors	"Dell P2422H - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	6	11125.8
+SE	45.0	Monitors & TV	Monitors	"Dell P2722H - LED-skärm - Full HD (1080p) - 27"""	nan	Ingram	4	8788.0
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED display - 6.1"" - 2532 x 1170 pixels - 2x rear cameras 12 MP, 12 MP - front camera 12 MP - blue"	nan	Ingram	1	7401.4
+NO	5.0	Computers	Laptops	"HP ZBook Firefly 16 G9 Mobile Workstation - Intel Core i7 1265U / 1.8 GHz - vPro - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - T550 - 32 GB RAM - 1 TB SSD NVMe, TLC - 16"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden"	nan	Ingram	1	17141.19
+SE	3.0	Computers	Laptops	"HP ZBook Firefly 16 G9 Mobile Workstation - Intel Core i7 1265U / 1.8 GHz - vPro - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - T550 - 32 GB RAM - 1 TB SSD NVMe, TLC - 16"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden"	nan	Ingram	1	17141.19
+DK	5.0	Components	Sound Cards	Focusrite Scarlett 2i2 3rd Gen	nan	Scandinavian Photo	1	1432.0
+NO	2.0	Multimedia & Audio	Headsets	Jabra Evolve 65 MS stereo - Headset - på örat - Bluetooth - trådlös - NFC - USB - Certifierad för Skype for Buisness	5706990000000.0	EET	1	1350.92
+SE	4.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+DK	3.0	Keyboard & Mice	Desktop Sets	Logitech MK270 Wireless Combo - sats med tangentbord och mus - nordisk	5099210000000.0	EET	2	612.0
+NO	56.0	Keyboard & Mice	Mouse - Wireless	Microsoft Arc Touch Mouse - mus - 2.4 GHz - svart	885370000000.0	EET	1	684.0
+SE	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1574.89
+DK	56.0	Multimedia & Audio	Accessories - headsets	Jabra laddningsställ	5706990000000.0	EET	1	592.0
+NO	3.0	Multimedia & Audio	Headsets	Jabra Evolve 65 MS stereo - Headset - på örat - Bluetooth - trådlös - NFC - USB - Certifierad för Skype for Buisness	5706990000000.0	EET	2	2701.84
+SE	5.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 360 - Headset - fullstorlek - Bluetooth - trådlös - aktiv brusradering - svart - Certifierad för Microsoft-teams	5714710000000.0	Triada	8	12153.36
+DK	357.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 360 - Headset - fullstorlek - Bluetooth - trådlös - aktiv brusradering - svart - Certifierad för Microsoft-teams	5714710000000.0	Triada	8	12153.36
+NO	3.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 660 - Headset - fullstorlek - Bluetooth - trådlös - NFC - aktiv brusradering - svart - Certifierad för Skype for Buisness, Certifierad för Microsoft-teams	4044160000000.0	Triada	1	2666.97
+SE	7.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 660 - Headset - fullstorlek - Bluetooth - trådlös - NFC - aktiv brusradering - svart - Certifierad för Skype for Buisness, Certifierad för Microsoft-teams	4044160000000.0	Triada	2	5333.94
+DK	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A32 - Enterprise Edition - 4G pekskärmsmobil - dual-SIM - RAM 4 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.4"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 8 MP, 5 MP, 5 MP - front camera 20 MP - fantastisk svart"	nan	Ingram	3	7378.65
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1795.0
+SE	11.0	Multimedia & Audio	Wireless video & audio	Microsoft Wireless Display Adapter - v2 - trådlös ljud-/videoförlängare	889842000000.0	ALSO	6	2973.36
+DK	233.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	2	501.52
+NO	44.0	Computers	Barebone	Intel Next Unit of Computing 11 Pro Kit NUC11TNHi30Z - mini-PC - Core i3 1115G4 - 0 GB - ingen HDD	5032040000000.0	ALSO	1	2997.8
+SE	1.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	3	752.28
+DK	2.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	ALSO	1	2645.46
+NO	3.0	Ink, toner & consumables	Toner - Colour	OKI - Magenta - original - tonerkassett - för OKI MC352, MC361, MC362, MC562; C310, 330, 510, 511, 530	5031710000000.0	ALSO	1	847.34
+SE	1.0	Backup & Data Storage	NAS Server & Storage	QNAP TS-H973AX-32G - NAS-server	nan	ALSO	1	12542.26
+DK	23.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	ALSO	2	5290.92
+NO	23.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	ALSO	1	2645.46
+SE	4.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Wireless - rullmus - svart	743870000000.0	ALSO	1	2669.16
+DK	34.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	234.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	1	1316.49
+SE	234.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy A52s 5G - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - OLED-skärm - 6.5"" - 2400 x 1080 pixlar - 4x bakre kameror 64 MP, 12 MP, 5 MP, 5 MP - front camera 32 MP - fantastisk svart"	nan	Ingram	1	4148.1324
+DK	243.0	Monitors & TV	Monitors	"ASUS ZenScreen MB14AC - LED-skärm - Full HD (1080p) - 14"""	nan	Exertis	1	2120.6
+NO	53.0	Monitors & TV	Monitors	"Samsung S32A600NWU - S60A Series - LED-skärm - QHD - 32"" - HDR"	nan	TD SYNNEX	1	2862.74
+SE	1.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	TD SYNNEX	3	6092.52
+DK	3.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	TD SYNNEX	2	5455.5
+NO	45.0	Power-adaptors & UPS	Power Adapters	Apple MagSafe - strömadapter - 60 Watt	885909000000.0	TD SYNNEX	1	642.34
+SE	3.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	193639000000.0	TD SYNNEX	2	5787.02
+DK	5.0	Monitors & TV	Monitors	"Samsung S24A400UJU - S4U Series - LED-skärm - Full HD (1080p) - 24"""	nan	TD SYNNEX	2	3747.88
+NO	3.0	Computers	Laptops	X1 Carbon Gen 10 / i7 / 16GB / 512GB / Nordic KB	nan	TD SYNNEX	1	14292.17
+SE	5.0	Computers	Tablets	"Apple 12.9-inch iPad Pro Wi-Fi + Cellular - 6:e generation - surfplatta - 128 GB - 12.9"" - 3G, 4G, 5G"	194253000000.0	TD SYNNEX	1	13725.62
+DK	2.0	Monitors & TV	Monitors	"Samsung S27B800PXU - S80PB Series - LED-skärm - 4K - 27"" - HDR"	nan	TD SYNNEX	1	4524.12
+NO	4.0	Monitors & TV	Monitors	"Dell P2723D - LED-skärm - QHD - 27"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	TD SYNNEX	4	12786.32
+SE	3.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i7 1255U / 1.7 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 512 GB SSD NVMe, HP Value - 14"" IPS HP SureView Reflect 1920 x 1200 - Wi-Fi 6E - 5G LTE, NR - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	TD SYNNEX	1	14899.32
+DK	56.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i7 1255U / 1.7 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 512 GB SSD NVMe, HP Value - 14"" IPS HP SureView Reflect 1920 x 1200 - Wi-Fi 6E - 5G LTE, NR - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	TD SYNNEX	1	14899.32
+NO	3.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	1	9647.32
+SE	56.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	TD SYNNEX	1	2388.63
+DK	3.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Magenta - original - LaserJet - tonerkassett (W2413A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	497.04
+NO	5.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Cyan - original - LaserJet - tonerkassett (W2411A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	497.04
+SE	357.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Gul - original - LaserJet - tonerkassett (W2412A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	497.04
+DK	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1393.56
+NO	7.0	Digital Cameras & Video	Webcams	Lenovo ThinkVision M50 - webbkamera	nan	Ingram	1	435.42
+SE	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1393.56
+DK	657.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	1	1953.0
+NO	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 14 Pro Max - 5G smartphone - dual-SIM / Internal Memory 1 TB - OLED-skärm - 6.7"" - 2796 x 1290 pixels (120 Hz) - 3 st. bakre kameror 48 MP, 12 MP, 12 MP - front camera 12 MP - space black"	nan	Ingram	1	17980.46
+SE	67.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	2	3410.0
+DK	35.0	Monitors & TV	Monitors	"Samsung F24T450FQR - T45F Series - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	6	10443.0
+NO	67.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1393.56
+SE	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1393.56
+DK	65.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	545.43
+NO	73.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+SE	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	3	5202.69
+DK	6.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Ingram	3	7134.57
+NO	2.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1733.61
+SE	2.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	2302.53
+DK	56.0	Accessories	Docking Solutions	Dell Docking Station WD19S - dockningsstation - USB-C - HDMI, 2 x DP, USB-C - GigE	nan	Ingram	2	3638.02
+NO	3.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Ingram	2	4756.38
+SE	456.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	56.0	Ink, toner & consumables	Toner - Black	HP 59X - Lång livslängd - svart - original - LaserJet - tonerkassett (CF259X) - för LaserJet Enterprise M406, MFP M430; LaserJet Pro M304, M404, MFP M428	192018000000.0	Ingram	1	2102.86
+SE	3.0	Keyboard & Mice	Digital Pens	Apple Pencil 2nd Generation - penna för surfplatta	190199000000.0	Ingram	1	1324.2
+DK	6.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	2	2632.98
+NO	1.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	Ingram	1	1678.15
+SE	6.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+DK	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+NO	56.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+SE	3.0	Monitors & TV	Monitors	"EIZO ColorEdge CG2700S - LED-skärm - 27"" - HDR"	nan	Ingram	1	22642.41
+DK	56.0	Keyboard & Mice	Keyboard - Wireless	Apple Magic Keyboard - tangentbord - svensk	nan	Ingram	1	867.05
+NO	3.0	Computers	Tablets	"Apple 11-inch iPad Pro Wi-Fi - 4:e generation - surfplatta - 128 GB - 11"""	194253000000.0	Ingram	1	9352.03125
+SE	5.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	1	1953.0
+DK	357.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	TD SYNNEX	4	19674.12
+NO	3.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2nd generation - true wireless earphones with mic - in-ear - Bluetooth - active noise cancelling - white	nan	Deltaco	1	2655.0
+SE	7.0	Multimedia & Audio	Headsets	Bose QuietComfort 45 - Hörlurar med mikrofon - fullstorlek - Bluetooth - trådlös - aktiv brusradering - ljudisolerande - trippelsvart	nan	Deltaco	1	3656.0
+DK	3.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	1	2655.0
+NO	657.0	Mobiles & GPS	Mobile Phones	"Google Pixel 7 - 5G smartphone - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED display - 6.3"" - 2400 x 1080 pixels (90 Hz) - 2x rear cameras 50 MP, 12 MP - front camera 10.8 Megapixel - obsidian"	nan	Deltaco	1	6629.0
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	Despec	1	2185.48
+DK	67.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	Ingram	1	4887.3
+NO	35.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	Ingram	1	4866.43
+SE	67.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	Ingram	1	4866.43
+DK	3.0	Digital Cameras & Video	Webcams	Lenovo Performance FHD - webbkamera	195892000000.0	ALSO	1	567.25
+NO	65.0	Computers	Laptops	"Lenovo ThinkPad P14s Gen 3 21AK - 180-degree hinge design - Intel Core i7 1260P / 2.1 GHz - Win 10 Pro 64-bit (includes Win 11 Pro Licence) - Quadro T550 - 16 GB RAM - 1 TB SSD TCG Opal Encryption 2, NVMe - 14"" IPS 1920 x 1200 - Wi-Fi 6E - black - kbd: Nordic (Danish/Finnish/Norwegian/Swedish) - with 3 Years Lenovo Premier Support, Co2 Offset 1 ton"	nan	Ingram	1	21079.6
+SE	73.0	Servers	Servers - Blade	PowerEdge R650xs	nan	TD SYNNEX manuell	1	156834.69
+DK	5.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 11 - 4G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 6.1"" - 1792 x 828 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - vit"	nan	TD SYNNEX	10	45338.6
+NO	6.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Free3 - rullmus - USB - svart	743870000000.0	Despec	2	3504.58
+SE	2.0	Monitors & TV	Room Booking	"10,1"""" LM-1052T LED,POE,Touch"	nan	EET	2	11732.0
+DK	2.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	8	55524.72
+NO	56.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	Ingram	1	3863.19165
+SE	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7216.81
+DK	456.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - rosa"	nan	Ingram	1	7923.57
+NO	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 256 GB - 10.2"" - 3G, 4G"	194253000000.0	Ingram	1	6678.81
+SE	56.0	Networking	Repeaters & transceivers	PLANET MGB-Series MGB-TLB10 - SFP-sändar/mottagarmodul (mini-GBIC) - GigE	4711210000000.0	EET	2	397.44
+DK	3.0	Monitors & TV	Monitors	"HP E27 G4 - E-Series - LED-skärm - Full HD (1080p) - 27"""	nan	EET	2	4708.0
+NO	56.0	Monitors & TV	Monitors	"HP E27 G4 - E-Series - LED-skärm - Full HD (1080p) - 27"""	nan	EET	1	2354.0
+SE	3.0	Printing	Scanner - document	Brother ADS-1200 - dokumentskanner - bärbar - USB 3.0, USB 2.0 (Host)	4977770000000.0	Despec	2	3920.22
+DK	56.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	2150.88
+NO	3.0	Projectors	Screens	"Elite Spectrum Series Electric120V - projektorduk - 120"" (305 cm)"	6944900000000.0	ALSO	1	2912.56
+SE	5.0	Monitors & TV	Monitors	"HP P34hc G4 - P-Series - LED monitor - curved - 34"""	nan	Ingram	1	3680.23
+DK	357.0	Monitors & TV	Monitors	"DELL 24"" Skärm - P2423 "	nan	Ingram	1	2289.27075
+NO	3.0	Monitors & TV	Interactive Displays	"Promethean ActivPanel 9 75"" LED-bakgrundsbelyst LCD-skärm - 4K - för interaktiv kommunikation"	nan	Exertis	4	84328.0
+SE	7.0	Computers	Laptops	Surface Laptop SE 2C/4/64 Nordic	nan	Ingram	4	10631.04
+DK	3.0	Monitors & TV	Monitors	"HP EliteDisplay E243m - LED-skärm - Full HD (1080p) - 23.8"""	5704170000000.0	EET	2	3944.0
+NO	657.0	Computers	Laptops	"ASUS Chromebook Flip CR1 CR1100FKA-BP0066 - Flipputformning - Intel Celeron N4500 / 1.1 GHz - Chrome OS - UHD Graphics - 4 GB RAM - 32 GB eMMC - 11.6"" pekskärm 1366 x 768 (HD) - Wi-Fi 6 - mörkgrå"	nan	Exertis	15	49799.7
+SE	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - grön"	nan	Ingram	1	7401.4
+DK	67.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	1	1884.0
+NO	35.0	Ink, toner & consumables	Miscellaneous	HP - påfyllningsbart häftklammermagasin	190781000000.0	Despec	1	202.38
+SE	56.0	Ink, toner & consumables	Toner - Colour	HP 201A - Magenta - original - LaserJet - tonerkassett (CF403A) - för Color LaserJet Pro M252dn, M252dw, M252n, MFP M274n, MFP M277c6, MFP M277dw, MFP M277n	888793000000.0	Ingram	1	817.89
+DK	3.0	Ink, toner & consumables	Toner - Colour	Canon 054 H - Hög kapacitet - gul - original - tonerkassett - för ImageCLASS LBP622Cdw, MF641CW, MF642Cdw, MF644Cdw	4549290000000.0	Despec	1	863.53
+NO	56.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	Despec	1	2708.08
+SE	3.0	Computers	Workstations	Lenovo ThinkStation P350 - tower - Core i7 11700K 3.6 GHz - vPro - 32 GB - SSD 512 GB - Nordisk	nan	ALSO	1	17079.47
+DK	5.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	1	250.76
+NO	357.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2640.24
+SE	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Pro3 plus - rullmus - USB - svart	743870000000.0	ALSO	1	2052.17
+DK	7.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Max - rullmus - USB - röd - med ArmSupport	743870000000.0	ALSO	1	3212.04
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2640.24
+SE	657.0	Storage	Hard Drives - External	Seagate Basic STJL2000400 - hårddisk - 2 TB - USB 3.0	3660620000000.0	ALSO	1	543.46
+DK	3.0	Computers	Laptops	"Lenovo ThinkPad T14s Gen 3 21BR - 180 graders gångsjärnskonstruktion - Intel Core i7 1260P / 2.1 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 32 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe - 14"" IPS 1920 x 1200 - Wi-Fi 6E - åsksvart - kbd: nordiskt (danska/finska/norska/svenska) - med 3 års Lenovo Premier Support, CO2-kompensering 1 ton"	nan	Ingram	1	22103.48925
+NO	67.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	2150.88
+SE	35.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+DK	67.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+NO	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+SE	65.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1383.33
+DK	73.0	Power-adaptors & UPS	UPS	APC Back-UPS BE850G2-GR - UPS - 520 Watt - 850 VA	731304000000.0	Ingram	1	1289.76
+NO	5.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7216.81
+SE	6.0	Monitors & TV	Monitors	"Samsung S34A650UXU - S65UA Series - LED monitor - curved - 34"" - HDR"	nan	TD SYNNEX	1	4387.18
+DK	2.0	Mobiles & GPS	Smart watches	Apple Watch Series 8 (GPS) - midnight aluminium - smart watch with sport band - midnight - 32 GB	nan	TD SYNNEX	1	4476.67
+NO	2.0	Computers	Laptops	"Apple MacBook Air - M1 - M1 7-core GPU - 8 GB RAM - 256 GB SSD - 13.3"" IPS 2560 x 1600 (WQXGA) - Wi-Fi 6 - rymdgrå - kbd: Svenska/finska"	nan	TD SYNNEX	1	10855.49008
+SE	56.0	Computers	Laptops	"ASUS Chromebook C204MA GJ0247Z - 180 graders gångsjärnskonstruktion - Intel Celeron N4020 / 1.1 GHz - Chrome OS - UHD Graphics 600 - 4 GB RAM - 32 GB eMMC - 11.6"" 1366 x 768 (HD) - Wi-Fi 5 - mörkgrå"	nan	TD Synnex	3	5697.33
+DK	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	5	18010.0
+NO	456.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 14 Plus - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED display - 6.7"" - 2778 x 1284 pixels - 2x rear cameras 12 MP, 12 MP - front camera 12 MP - midnight"	nan	TD SYNNEX	1	9741.33
+SE	3.0	Accessories	Accessories - Laptops	Apple Magic Trackpad - trackpad - Bluetooth	194253000000.0	TD SYNNEX	1	1010.84
+DK	56.0	Keyboard & Mice	Keyboard - Wireless	Apple Magic Keyboard with Touch ID and Numeric Keypad - keyboard - Swedish	nan	TD SYNNEX	1	1416.53
+NO	3.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi - 9:e generation - surfplatta - 64 GB - 10.2"""	194253000000.0	TD SYNNEX	1	3602.84
+SE	4.0	Mobiles & GPS	Mobile Phones	"Motorola Edge 30 Neo - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - pOLED-skärm - 6.28"" - 2400 x 1080 pixlar (120 Hz) - 2 bakre kameror 64 MP, 13 MP - front camera 32 MP - svart onyx"	nan	ALSO	1	2957.19
+DK	345.0	Computers	Laptops	Dell Latitude 5430  XCTO i3	nan	DELL	1	7025.0
+NO	3.0	Power-adaptors & UPS	Power Adapters	HP Smart AC Adapter - strömadapter - 65 Watt	5712510000000.0	ALSO	4	1003.04
+SE	45.0	Multimedia & Audio	Wireless video & audio	Microsoft Wireless Display Adapter - v2 - trådlös ljud-/videoförlängare	889842000000.0	ALSO	3	1470.99
+DK	nan	Servers	Servers - Blade	HPE ProLiant DL380 Gen10 Plus Network Choice - kan monteras i rack - ingen CPU - 0 GB - ingen HDD	nan	TD SYNNEX manuell	2	46163.28
+NO	34.0	Components	Processors	Intel Xeon Gold 6346 / 3.1 GHz processor	nan	TD SYNNEX manuell	4	130349.48
+SE	5.0	Components	Cooling & Fans	HPE High Performance Fan Kit - fläktsats för system	nan	TD SYNNEX manuell	3	6620.55
+DK	34.0	Components	Power Supplies	HPE - nätaggregat - hot-plug/redundant - 500 Watt - 563 VA	nan	TD SYNNEX manuell	6	4976.1
+NO	5.0	Software	Miscellaneous	HPE Integrated Lights-Out Advanced - licens + 1 års support 24x7 - 1 server	nan	TD SYNNEX manuell	3	4321.47
+SE	3.0	Memory	RAM	HP - DDR4 - modul - 16 GB - SO DIMM 260-pin - 3200 MHz / PC4-25600 - ej buffrad	nan	TD SYNNEX	50	62329.5
+DK	45.0	Monitors & TV	Monitors	"Samsung C27F390FHR - LED-skärm - böjd - Full HD (1080p) - 27"""	nan	TD SYNNEX	1	1780.75
+NO	3.0	Monitors & TV	Monitors	"Philips B Line 345B1C - LED-skärm - böjd - 34"""	nan	TD SYNNEX	1	4025.32
+SE	45.0	Memory	RAM	Lenovo - DDR4 - module - 32 GB - SO-DIMM 260-pin - 3200 MHz / PC4-25600 - unbuffered	nan	TD SYNNEX	1	2674.31
+DK	3.0	Computers	Laptops	"Apple MacBook Pro - M1 Pro - M1 Pro 14-core GPU - 16 GB RAM - 512 GB SSD - 14.2"" 3024 x 1964 @ 120 Hz - Wi-Fi 6 - space grey - kbd: US - CTO"	nan	TD SYNNEX	1	18780.77
+NO	45.0	Multimedia & Audio	Headsets	Jabra Evolve2 Buds MS - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - USB-A via Bluetooth-adapter - ljudisolerande - svart	nan	TD SYNNEX	1	2173.98
+SE	3.0	Computers	Laptops	"Dell Latitude 5530 - Intel Core i5 1235U / 1.3 GHz - Win 10 Pro (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, Class 35 - 15.6"" 1920 x 1080 (Full HD) - Wi-Fi 6E - grå - BTS - med 1 års grundläggande på plats"	5397180000000.0	TD SYNNEX manuell	2	24827.48
+DK	5.0	Servers	Servers - Rack	Dell PowerEdge R350 - kan monteras i rack - Xeon E-2334 3.4 GHz - 16 GB - HDD 600 GB	5397180000000.0	TD SYNNEX	2	34670.94
+NO	3.0	Monitors & TV	Monitors	"HP P34hc G4 - P-Series - LED-skärm - böjd - 34"""	nan	Ingram	1	3680.23
+SE	1.0	Monitors & TV	Monitors	"Samsung S34A650UXU - S65UA Series - LED-skärm - böjd - 34"" - HDR"	nan	TD SYNNEX	2	8774.36
+DK	6.0	Monitors & TV	Monitors	"Lenovo ThinkVision P24h-2L - LED-skärm - 24"""	nan	TD SYNNEX	3	9097.11
+NO	1.0	Monitors & TV	Monitors	"Lenovo ThinkVision P24q-20 - LED-skärm - 24"""	5704170000000.0	TD SYNNEX	3	7327.71
+SE	1.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	1	9647.32
+DK	76.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	1	9647.32
+NO	8.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1376.04
+SE	7.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	539.99
+DK	9.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Ingram	1	1376.04
+NO	6.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	540.12
+SE	980.0	Computers	Barebone	Intel Next Unit of Computing Kit NUC7CJYHN - mini-PC - Celeron J4005 2 GHz - 0 GB - ingen HDD	nan	ALSO	3	3262.11
+DK	6.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	ALSO	1	2820.93
+NO	798.0	Monitors & TV	Monitors	"Philips B Line 241B8QJEB - LED-skärm - Full HD (1080p) - 24"""	nan	ALSO	1	1709.93
+SE	6.0	Accessories	Docking Solutions	i-Tec - dockningsstation - USB-C 3.1 Gen 2 / Thunderbolt 3 - HDMI, DP - GigE	8595610000000.0	Ingram	1	1222.94
+DK	7.0	Keyboard & Mice	Mouse - Wireless	HP 435 - mus - Bluetooth, 2.4 GHz - jacksvart	nan	Ingram	1	398.27
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+SE	8.0	Multimedia & Audio	Headsets	Samsung Galaxy Buds2 Pro - True wireless earphones with mic - in-ear - Bluetooth - active noise cancelling - graphite - for Galaxy S22, S22 Ultra, S22+, Z Flip4, Z Flip4 5G, Z Fold4	nan	Ingram	1	2052.34
+DK	9.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - svart, vit	7350070000000.0	Ingram	1	1705.0
+NO	1.0	Multimedia & Audio	Headsets	Poly Blackwire C5220 USB-A - 5200 Series - headset - på örat - kabelansluten - USB, 3,5 mm kontakt	17229158559.0	Ingram	1	543.68
+SE	0.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	2	3906.0
+DK	0.0	Accessories	Docking Solutions	HP - Essential - dockningsstation - USB-C - HDMI, 2 x DP	nan	Ingram	1	1321.65
+NO	1.0	Accessories	Accessories - Miscellaneous	Logitech Rally Mic Pod Hub - gränssnittsadapter till mikrofon	97855143143.0	Ingram	1	2115.36
+SE	9.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+DK	8.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Prime - styrmatta - USB, Bluetooth	nan	Ingram	1	1953.0
+NO	73.0	Power-adaptors & UPS	Power Adapters	Microsoft Surface 65W Power Supply - strömadapter - 65 Watt	889842000000.0	Ingram	1	616.0
+SE	45.0	Keyboard & Mice	Digital Pens	Apple Pencil 2nd Generation - penna för surfplatta	190199000000.0	Ingram	1	1324.2
+DK	4.0	Computers	Tablets	"Apple 10.2-inch iPad Wi-Fi + Cellular - 9:e generation - surfplatta - 256 GB - 10.2"" - 3G, 4G"	194253000000.0	Ingram	1	6678.81
+NO	5.0	Monitors & TV	Monitors	"Dell P2423DE - LED-skärm - QHD - 24"" - TAA-kompatibel - med 3 års grundläggande avancerat byte (PL - 3 års avancerad bytesservice)"	nan	Ingram	1	3400.9071
+SE	345.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	2302.53
+DK	2.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	1960.87
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+SE	1.0	Accessories	Docking Solutions	i-Tec - dockningsstation - USB-C 3.1 Gen 2 / Thunderbolt 3 - HDMI, DP - GigE	8595610000000.0	Ingram	2	2445.88
+DK	23.0	Monitors & TV	Monitors	"HP E24i G4 - E-Series - LED monitor - 24"""	nan	Ingram	1	2119.63
+NO	23.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+SE	4.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - starlight"	nan	Ingram	1	7401.4
+DK	34.0	Monitors & TV	Monitors	"HP E27 G4 - E-Series - LED-skärm - Full HD (1080p) - 27"""	nan	Ingram	2	4757.7
+NO	234.0	Storage	Hard Drives - Internal	Seagate IronWolf Pro ST4000NE001 - hårddisk - 4 TB - SATA 6Gb/s	8719710000000.0	Ingram	2	2328.72
+SE	234.0	Computers	Laptops	"Lenovo ThinkPad P15 Gen 2 20YQ - Intel Core i7 11850H / 2.5 GHz - vPro - Win 10 Pro 64-bitars - RTX A2000  - 32 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe - 15.6"" IPS 1920 x 1080 (Full HD) - Wi-Fi 6 - svart - kbd: Nordisk - med 3 års Lenovo Premier Support, Co2-kompensation 1 ton"	nan	Ingram	1	26193.24
+DK	243.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+NO	53.0	Memory	RAM	HPE SmartMemory - DDR4 - modul - 64 GB - DIMM 288-pin - 3200 MHz / PC4-25600 - registrerad	nan	TD SYNNEX manuell	32	212164.16
+SE	1.0	Storage	Hard Drives - SSD	HPE PM893 - SSD - 480 GB - SATA 6Gb/s	nan	TD SYNNEX manuell	4	8677.28
+DK	3.0	Components	Controller Cards	HPE x8/x16/x8 Riser Kit - kort för stigare	nan	TD SYNNEX manuell	2	1016.3
+NO	45.0	Networking	Network Adapters	HPE QL41232HLCU - nätverksadapter - PCIe 3.0 x8 - 10Gb Ethernet / 25Gb Ethernet SFP28 x 2	nan	TD SYNNEX manuell	4	10884.96
+SE	3.0	Accessories	Docking Solutions	HPE x8/x16/x8 Primary Riser Kit - kort för stigare	nan	TD SYNNEX manuell	2	2563.46
+DK	5.0	Backup & Data Storage	Raid Controllers	Broadcom MegaRAID MR416i-p - kontrollerkort (RAID) - SATA 6Gb/s / SAS 12Gb/s / PCIe 4.0 (NVMe) - PCIe 4.0 x8	nan	TD SYNNEX manuell	2	12220.96
+NO	3.0	Networking	Network Adapters	HPE StoreFabric SN1610Q Dual Port - värdbussadapter - PCIe 4.0 x8 - 32Gb Fibre Channel x 2	nan	TD SYNNEX manuell	2	32816.04
+SE	5.0	Networking	Network Adapters	HPE I350-T4 - nätverksadapter - OCP 3.0 - Gigabit Ethernet x 4	nan	TD SYNNEX manuell	2	4355.88
+DK	2.0	Components	Power Supplies	HPE - nätaggregat - hot-plug/redundant - 800 Watt - 860 VA	nan	TD SYNNEX manuell	4	7800.44
+NO	4.0	Software	Service & Support	HPE OneView with iLO Advanced - licens + 3 års support 24x7 - 1 server	nan	TD SYNNEX manuell	2	8775.72
+SE	3.0	Cables	Other	HPE SATA/SAS-kabelsats	nan	TD SYNNEX manuell	2	779.44
+DK	56.0	Components	Cooling & Fans	HPE High Performance - kylare för videokort	nan	TD SYNNEX manuell	4	2639.24
+NO	3.0	Accessories	Docking Solutions	Lenovo ThinkPad Universal USB-C Dock - dockningsstation - USB-C - HDMI, 2 x DP - GigE	nan	Ingram	1	2302.53
+SE	56.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+DK	3.0	Servers	Servers - Rack	HPE ProLiant DL360 Gen10 Plus Network Choice - kan monteras i rack - ingen CPU - 0 GB - ingen HDD	nan	TD SYNNEX manuell	3	50970.84
+NO	5.0	Components	Processors	Intel Xeon Silver 4314 / 2.4 GHz processor	nan	TD SYNNEX manuell	6	44255.22
+SE	357.0	Memory	RAM	HPE SmartMemory - DDR4 - modul - 32 GB - DIMM 288-pin - 3200 MHz / PC4-25600 - registrerad	nan	TD SYNNEX manuell	48	135014.88
+DK	3.0	Accessories	Docking Solutions	HPE Low-Profile Riser Kit - kort för stigare	nan	TD SYNNEX manuell	3	1863.66
+NO	7.0	Networking	Network Adapters	HPE StoreFabric SN1610Q Dual Port - värdbussadapter - PCIe 4.0 x8 - 32Gb Fibre Channel x 2	nan	TD SYNNEX manuell	3	29041.68
+SE	3.0	Backup & Data Storage	Raid Controllers	HPE NS204i-p Gen10 Plus - kontrollerkort - M.2 NVMe Card / PCIe 3.0 (NVMe)	nan	TD SYNNEX manuell	3	14453.82
+DK	1.0	Networking	Network Adapters	HPE I350-T4 - nätverksadapter - OCP 3.0 - Gigabit Ethernet x 4	nan	TD SYNNEX manuell	3	4579.11
+NO	11.0	Components	Cooling & Fans	HPE Standard - kylfläns för processor	nan	TD SYNNEX manuell	6	2241.42
+SE	233.0	Monitors & TV	Monitors	"HP E23 G4 - E-Series - LED-skärm - Full HD (1080p) - 23"""	nan	EET	2	3768.0
+DK	44.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	EET	1	3398.0
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Contour Balance Keyboard WL and RollerMouse Red plus WL - sats med tangentbord och rullmus	743870000000.0	Despec	1	3239.46
+SE	2.0	Storage	Hard Drives - External	Samsung T7 MU-PC1T0T - SSD - 1 TB - USB 3.2 Gen 2	8806090000000.0	Exertis	1	1000.0
+DK	3.0	Monitors & TV	Monitors	"Samsung S27A600UUU - S60UA Series - LED-skärm - QHD - 27"" - HDR"	nan	Exertis	1	2536.0
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+SE	23.0	Projectors	Projectors	Optoma ML750e - DLP-projektor - 3D	5055390000000.0	Ingram	1	4822.85
+DK	23.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0+ - styrmatta - USB - svart med vita accenter	7350070000000.0	Ingram	1	1734.23
+NO	4.0	Multimedia & Audio	Headsets	Samsung Galaxy Buds2 Pro - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - grafit - för Galaxy S22, S22 Ultra, S22+, Z Flip4, Z Flip4 5G, Z Fold4	nan	Ingram	1	2052.34
+SE	34.0	Keyboard & Mice	Mice - Ergonomic	Mousetrapper Advance 2.0 - styrmatta - USB - Coral	7350070000000.0	Ingram	1	1705.0
+DK	234.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	36	272207.52
+NO	234.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 13 mini - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 5.4"" - 2340 x 1080 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - midnatt"	nan	Ingram	7	47466.02
+SE	243.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 64 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - svart"	nan	Ingram	1	6269.23
+DK	53.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	Despec	1	2717.73
+NO	1.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	Despec	1	2702.62
+SE	3.0	Monitors & TV	Monitors	"Philips P-line 329P1H - LED-skärm - 4K - 32"""	nan	TD SYNNEX	1	6158.79915
+DK	45.0	Storage	Hard Drives - Internal	HPE Enterprise - hårddisk - 1.8 TB - SAS 12Gb/s	4549820000000.0	TD SYNNEX	2	7418.02
+NO	3.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27q-20 - LED-skärm - 27"""	nan	TD SYNNEX	2	5845.76
+SE	5.0	Monitors & TV	Monitors	"Samsung S32A700NWU - S70A series - LED-skärm - 4K - 32"" - HDR"	nan	TD SYNNEX	2	6615.78
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 11 - 4G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 6.1"" - 1792 x 828 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - svart"	nan	TD Synnex	4	19314.2436
+NO	5.0	Computers	Laptops	ThinkPad T14s G3 i7 32GB/512GB Nordic KB / Premier Support	nan	TD SYNNEX	1	14214.21
+SE	2.0	Computers	Desktop	Dell OptiPlex 3000 - mikro - Core i5 12500T 2 GHz - 16 GB - SSD 256 GB	5397180000000.0	TD SYNNEX	1	7457.67
+DK	4.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	1	9647.32
+NO	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	TD SYNNEX	1	4916.94
+SE	56.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	TD Synnex	1	4916.94
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - midnatt"	nan	TD Synnex	1	4916.94
+NO	56.0	Monitors & TV	Monitors	"HP E27 G4 - E-Series - LED-skärm - Full HD (1080p) - 27"""	nan	Ingram	5	11894.25
+SE	3.0	Accessories	Docking Solutions	Dell Performance Dock WD19DCS - dockningsstation - USB-C - HDMI, DP - GigE	5704170000000.0	EET	1	3248.0
+DK	5.0	Accessories	Docking Solutions	Dell Performance Dock WD19DCS - dockningsstation - USB-C - HDMI, DP - GigE	884116000000.0	EET	10	31860.0
+NO	357.0	Monitors & TV	Monitors	"HP P27h G4 - LED-skärm - Full HD (1080p) - 27"""	193906000000.0	EET	1	2208.0
+SE	3.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	2	5310.0
+DK	7.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	1	2655.0
+NO	3.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	3	7965.0
+SE	657.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	1	2655.0
+DK	3.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2059.0
+NO	67.0	Multimedia & Audio	Headsets	Apple AirPods with MagSafe Charging Case - 3:e generationen - True wireless-hörlurar med mikrofon - öronknopp - Bluetooth - för iPad/iPhone/iPod/TV/Watch	nan	Deltaco	1	2059.0
+SE	35.0	Networking	Access Point	HPE Aruba AP-518 (RW) - Hardened - trådlös åtkomstpunkt - ZigBee, Bluetooth, Wi-Fi 6	nan	Arrow	4	29840.0
+DK	67.0	Networking	Miscellaneous	HPE Aruba LIC-AP Controller - Capacity License - 1 accesspunkt	190017000000.0	Arrow	4	1176.0
+NO	3.0	Networking	Wireless - Accessories	HPE Aruba Policy Enforcement Firewall - licens - 1 accesspunkt	190017000000.0	Arrow	4	1176.0
+SE	65.0	Software	Miscellaneous	HPE Aruba AirWave with RAPIDS and VisualRF - licens - 1 enhet	nan	Arrow	4	1176.0
+DK	73.0	Mobiles & GPS	Mobile Phones	"Apple iPhone SE (3rd generation) - (PRODUCT) RED - 5G smartphone - dual-SIM / Internal Memory 64 GB - LCD-skärm - 4.7"" - 1334 x 750 pixlar - rear camera 12 MP - front camera 7 MP - röd"	nan	Ingram	1	5206.6785
+NO	5.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	828.0
+SE	6.0	Multimedia & Audio	Headsets	Jabra Evolve 75 MS Stereo - Headset - på örat - Bluetooth - trådlös - aktiv brusradering - USB - Certifierad för Skype for Buisness	nan	EET	1	2046.0
+DK	2.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	828.0
+NO	2.0	Projectors	Projectors	Epson EB-FH52 - 3LCD-projektor - 802.11n trådlös/Miracast - vit	8715950000000.0	EET	1	5994.0
+SE	56.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	EET	1	2518.0
+DK	3.0	Networking	Switch	ATEN US224 2-Port USB Peripheral Sharing Device - USB-växel	4710420000000.0	EET	1	170.0
+NO	456.0	Projectors	Lamps	Epson ELPLP91 - projektorlampa	8715950000000.0	EET	1	884.0
+SE	3.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Cyan - original - LaserJet - tonerkassett (W2411A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	Ingram	1	493.28
+DK	56.0	Monitors & TV	Monitors	"Lenovo ThinkVision T24i-2L - LED-skärm - Full HD (1080p) - 23.8"""	nan	Ingram	1	2113.74
+NO	3.0	Keyboard & Mice	Digital Pens	Apple Pencil 2nd Generation - penna för surfplatta	190199000000.0	Ingram	1	1410.273
+SE	6.0	Digital Cameras & Video	Network Cameras	AXIS Q6075-E 50 Hz - nätverksövervakningskamera	7331020000000.0	Ingram	1	31723.37865
+DK	1.0	Monitors & TV	Monitors	"Lenovo ThinkVision P27h-30 - LED-skärm - QHD - 27"""	196380000000.0	TD SYNNEX	1	4453.4
+NO	6.0	Computers	Laptops	ThinkPad T14s Gen3 i5 16/256GB Nordic KB	nan	TD SYNNEX	1	9647.32
+SE	3.0	Computers	Laptops	"HP ProBook 450 G9 Notebook - Intel Core i5 1235U / 1.3 GHz - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 15.6"" IPS 1920 x 1080 (Full HD) - Wi-Fi 6E - kbd: hela norden"	nan	TD SYNNEX	1	11138.96
+DK	56.0	Power-adaptors & UPS	Miscellaneous	Zebra - batteri för streckkodsläsare - Li-Ion - 2300 mAh	5711050000000.0	Ingram	10	6660.0
+NO	3.0	Home Electronics	Media Player	Google Chromecast with Google TV - AV-spelare	193575000000.0	Deltaco	3	1743.0
+SE	56.0	Multimedia & Audio	Headsets	Apple AirPods Pro - 2a generation - True wireless-hörlurar med mikrofon - inuti örat - Bluetooth - aktiv brusradering - vit	nan	Deltaco	1	2655.0
+DK	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	Despec	1	2097.78
+NO	5.0	Multimedia & Audio	Headsets	EPOS I SENNHEISER ADAPT 360 - Headset - fullstorlek - Bluetooth - trådlös - aktiv brusradering - svart - Certifierad för Microsoft-teams	5714710000000.0	Triada	1	1510.17
+SE	357.0	Multimedia & Audio	Headsets	Bose Noise Cancelling Headphones 700 UC - Hörlurar med mikrofon - fullstorlek - Bluetooth - trådlös, kabelansluten - aktiv brusradering - ljudisolerande - svart - Certifierad för Microsoft-teams	17817820615.0	Triada	1	2939.25
+DK	3.0	Multimedia & Audio	Speakers	Sonos Roam - smarthögtalare - för bärbar användning	nan	Exertis	1	1561.49
+NO	7.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Max - rullmus - USB - röd - med ArmSupport	743870000000.0	ALSO	1	2696.37
+SE	3.0	Networking	Firewalls	Fortinet FortiGate 600E - säkerhetsfunktion	nan	Exclusive Networks Sweden AB	1	75205.79
+DK	657.0	Networking	Service & Support	Fortinet Advanced Threat Protection - förnyelse av abonnemangslicens (5 år) + FortiCare 24x7 - 1 licens	nan	Exclusive Networks Sweden AB	1	215362.05
+NO	3.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red - rullmus - USB	743870000000.0	Despec	1	2717.73
+SE	67.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse PRO3 - rullmus - USB - svart	743870000000.0	Despec	1	2129.12
+DK	35.0	Computers	Laptops	"HP EliteBook 840 G9 Notebook - Wolf Pro Security - Intel Core i5 1235U / 1.3 GHz - Evo - Win 10 Pro 64-bitars (inkluderar Win 11 Pro-licens) - Iris Xe Graphics - 16 GB RAM - 256 GB SSD NVMe, HP Value - 14"" IPS 1920 x 1200 - Wi-Fi 6E - kbd: hela norden - med HP 3 års maskinvarusupport för bärbara datorer nästa arbetsdag på platsen - med HP Wolf Pro säkerhetsutgåva (1 år)"	nan	Ingram	1	12529.89
+NO	67.0	Computers	Laptops	T14S G2 I7-1185G7 W10P 20WNS11E00:RR	nan	Ingram	1	0.1
+SE	3.0	Monitors & TV	Monitors	"HP E27q G4 - LED-skärm - 27"""	nan	EET	9	29538.0
+DK	65.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 64 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - blå"	nan	Ingram	4	26706.9198
+NO	73.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - blå"	nan	Ingram	1	7233.42675
+SE	5.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy S22 - 5G pekskärmsmobil - dual-SIM - RAM 8 GB / Internal Memory 128 GB - OLED-skärm - 6.1"" - 2340 x 1080 pixlar (120 Hz) - 3 st. bakre kameror 50 MP, 12 MP, 10 MP - front camera 10 MP - fantomsvart"	nan	Ingram	1	7427.7147
+DK	6.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus - rullmus - USB	743870000000.0	ALSO	1	2634.19
+NO	2.0	Keyboard & Mice	Mice - Ergonomic	Contour RollerMouse Red Plus Wireless - rullmus - svart	743870000000.0	ALSO	1	2230.5
+SE	2.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Gul - original - LaserJet - tonerkassett (W2412A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	ALSO	1	506.73
+DK	56.0	Ink, toner & consumables	Ink Cartridges	HP 216A - Svart - original - LaserJet - tonerkassett (W2410A) - för Color LaserJet Pro M155a, MFP M182n, MFP M182nw, MFP M183fw	193905000000.0	ALSO	1	469.9
+NO	3.0	Ink, toner & consumables	Toner - Colour	HP 201A - Gul - original - LaserJet - tonerkassett (CF402A) - för Color LaserJet Pro M252dn, M252dw, M252n, MFP M274n, MFP M277c6, MFP M277dw, MFP M277n	888793000000.0	ALSO	1	844.49
+SE	456.0	Monitors & TV	Monitors	"Dell P2422HE - LED-skärm - Full HD (1080p) - 24"""	nan	Ingram	11	28156.92
+DK	3.0	Accessories	Docking Solutions	HP USB-C Dock G5 - dockningsstation - USB-C - GigE	5707000000000.0	EET	2	8824.0
+NO	56.0	Monitors & TV	Monitors	"HP E24 G4 - E-Series - LED-skärm - Full HD (1080p) - 23.8"""	nan	EET	2	5036.0
+SE	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	3	4716.0
+DK	56.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten - USB, 3,5 mm kontakt - Certifierad för Skype for Buisness	5706990000000.0	EET	1	828.0
+NO	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1572.0
+SE	56.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	EET	1	1572.0
+DK	3.0	Mobiles & GPS	Mobile Phones	"Apple iPhone 12 - 5G smartphone - dual-SIM / Internal Memory 64 GB - OLED-skärm - 6.1"" - 2532 x 1170 pixlar - 2 bakre kameror 12 MP, 12 MP - front camera 12 MP - blå"	nan	Ingram	1	6676.72995
+NO	5.0	Computers	Tablets	"Samsung Galaxy Tab Active Pro - Enterprise Edition - surfplatta - Android 9.0 (Pie) - 64 GB - 10.1"" - 3G, 4G"	8806090000000.0	Ingram	1	6101.62
+SE	357.0	Keyboard & Mice	Digital Pens	Apple Pencil 2nd Generation - penna för surfplatta	190199000000.0	Ingram	1	1324.2
+DK	3.0	Mobiles & GPS	Mobile Phones	"Samsung Galaxy Xcover 6 Pro - Enterprise Edition - 5G pekskärmsmobil - dual-SIM - RAM 6 GB / Internal Memory 128 GB - microSD slot - LCD-skärm - 6.6"" - 2408 x 1080 pixlar (120 Hz) - 2 bakre kameror 50 MP, 8 MP - front camera 13 MP - svart"	nan	Ingram	2	10192.12
+NO	7.0	Miscellaneous	Services	KME KONFIGURATION	1234.0	Ingram	2	50.0
+SE	3.0	Mobiles & GPS	Mobiles - Screen Shields	Insmat Brilliant - Skärmskydd för mobiltelefon - 2.5D - glas - ramfärg svart - för Samsung Galaxy A32	nan	TD SYNNEX	2	178.82
+DK	657.0	Multimedia & Audio	Speakers	Soundcore Select Pro - boombox-högtalare - för bärbar användning - trådlös	194644000000.0	Ingram	1	1207.0
+NO	3.0	Cables	Adapters	Apple Lightning to USB Camera Adapter - Lightning-adapter - Lightning hane till USB hona - för iPad/iPhone/iPod (Lightning)	885910000000.0	TD SYNNEX	1	287.08495
+SE	67.0	Ink, toner & consumables	Ink Cartridges	Ink/HP A3 PW Managed S4a Cartridge BK	nan	ALSO	1	368.68
+DK	35.0	Cables	Lightning Cables	MicroConnect - Lightning-kabel - Lightning hane till USB hane - 1 m - för Apple iPad/iPhone/iPod (Lightning)	5711050000000.0	EET	8	567.2
+NO	56.0	Miscellaneous	Services	Tech Data Services - tekniskt stöd	nan	TD SYNNEX	4	40.6
+SE	3.0	Ink, toner & consumables	Ink Cartridges	HP 981Y - 343.5 ml - Extra lång livslängd - svart - original - PageWide - bläckpatron - för PageWide Enterprise Color MFP 586; PageWide Managed Color E55650	889296000000.0	Despec	1	1040.64
+DK	56.0	Miscellaneous	Services	ADVANIA DEP .	nan	Ingram	2	12.0
+NO	3.0	Ink, toner & consumables	Ink Cartridges	Ink/HP A3 PW Managed S4a Cartridge BK	nan	ALSO	1	366.66
+SE	5.0	Telephones	Conference Calls	Jabra SPEAK 510 MS – Konferenshögtalare USB BT	706487000000.0	EET	1	990.92
+DK	357.0	Multimedia & Audio	Headsets	Apple EarPods - Hörlurar med mikrofon - öronknopp - kabelansluten - Lightning - för iPad/iPhone/iPod (Lightning)	190198000000.0	TD SYNNEX	1	170.16
+NO	3.0	Mobiles & GPS	Mobiles - Screen Shields	Tolerate GLASS - Skärmskydd för mobiltelefon - glas - för Apple iPhone 6, 6s, 7, 8, SE (3rd generation), SE (andra generationen)	7350060000000.0	Ingram	1	53.79
+SE	7.0	Services	Logistic services	Leverans, uppsättning, återtag - Gävle	nan	InfoCare Service AB	2	1115.1
+DK	3.0	Mobiles & GPS	Mobiles - Cases & Holsters	Tolerate WALLET CASE - Vikbart fodral för mobiltelefon - svart - för Samsung Galaxy Xcover 5	7350060000000.0	Ingram	1	97.1067
+NO	657.0	Miscellaneous	Services	Excelfil Modellsn-Löpnr-Macadr Samt Ev Stöldskyddsnr	nan	TD SYNNEX	20	203.0
+SE	3.0	Keyboard & Mice	Mouse - Wireless	CHERRY MW 2310 2.0 - mus - RF, 2.4 GHz - svart	4025110000000.0	Ingram	1	177.0
+DK	67.0	Accessories	Privacy Filter - Laptops & Monitors	Targus Privacy Screen - Sekretessfilter till bärbar dator - borttagbar - 15,6 tum bred - för Dell Latitude E5510, E5530, E6530; Precision M4500, M4600; Vostro 1540, 35XX; XPS 15	5051790000000.0	EET	1	568.0
+NO	35.0	Cables	HDMI Cables	StarTech.com 1 m Höghastighets-HDMI-kabel – Ultra HD 4k x 2k HDMI-kabel – HDMI till HDMI M/M - HDMI-kabel - 1 m	65030848886.0	ALSO	2	151.2
+SE	67.0	Cables	Network Cables - TP	StarTech.com Cat6-patchkabel med hakfria RJ45-kontakter – 2 m, grön - patch-kabel - 2 m - grön	65030856591.0	ALSO	2	131.94
+DK	3.0	Memory	RAM	Dell minnesuppgradering - 64GB - 2RX4 DDR4 RDIMM 2933MHz (Cascade Lake endast)	nan	TD SYNNEX manuell	2	21405.4
+NO	65.0	Ink, toner & consumables	Miscellaneous	HP - avtorkningssats för skrivhuvud	190782000000.0	ALSO	1	362.55
+SE	73.0	Mobiles & GPS	Mobiles - Cases & Holsters	eSTUFF Soft Case - Baksidesskydd för mobiltelefon - UV-belagd termoplastisk polyuretan - transparent, klar - för Apple iPhone 12 mini	5704170000000.0	EET	1	52.0
+DK	5.0	Multimedia & Audio	Headsets	Apple EarPods - Hörlurar med mikrofon - öronknopp - kabelansluten - 3,5 mm kontakt - för iPad/iPhone/iPod	190198000000.0	TD SYNNEX	1	181.25235
+NO	6.0	Miscellaneous	Services	Tech Data Services - tekniskt stöd	nan	TD SYNNEX	1	10.15
+SE	2.0	Mobiles & GPS	Mobiles - Screen Shields	Tolerate - Skärmskydd för mobiltelefon - 2.5D - glas - för Samsung Galaxy S22	7340210000000.0	Ingram	1	66.67
+DK	2.0	Services	Logistic services	Avemballering Gävle	nan	InfoCare Service AB	1	0.0
+NO	56.0	Ink, toner & consumables	Ink Cartridges	HP 712 - 29 ml - magenta - original - DesignJet - bläckpatron - för DesignJet Studio, T210, T230, T250, T630, T650	nan	Ingram	2	542.08
+SE	3.0	Keyboard & Mice	Digital Pens	Logitech Crayon - digital penna - intensiv sorbet	5099210000000.0	Ingram	1	651.4392
+DK	456.0	Digital Cameras & Video	Webcams	Sandberg USB Webcam Flex - webbkamera	5705730000000.0	EET	1	350.65
+NO	3.0	Components	Power Supplies	HPE - nätaggregat - hot-plug/redundant - 800 Watt - 860 VA	nan	TD SYNNEX manuell	4	0.04
+SE	56.0	Keyboard & Mice	Desktop Sets	Logitech MX Keys Combo for Business - sats med tangentbord och mus - QWERTY - hela norden - grafit	5099210000000.0	TD Synnex	1	2239.8654
+DK	3.0	Accessories	Laptops - Cases & Bags	"Lenovo ThinkPad Essential (Eco) - Ryggsäck för bärbar dator - 16"" - svart med röda detaljer - för ThinkCentre M75t Gen 2; ThinkPad E14 Gen 3; P15v Gen 3; X1 Nano Gen 2; Z13 Gen 1"	nan	ALSO	2	530.54
+NO	4.0	Software	Service & Support	BLUEBEAM REVU 2018 STANDARD MAINTENANCE (1-49 USERS)	nan	CADELIT Sverige AB Manuell	1	456.0
+SE	345.0	Memory	USB	Kingston DataTraveler Exodia M - USB flash-enhet - 64 GB	740617000000.0	Exertis	1	26.59
+DK	3.0	Digital Cameras & Video	Webcams	Logitech Webcam C925e - webbkamera	5099210000000.0	EET	1	706.0
+NO	45.0	Keyboard & Mice	Mouse - Wireless	Logitech B170 - mus - 2.4 GHz - svart	5099210000000.0	Ingram	1	113.73
+SE	nan	Cables	Network Cables - Other	MicroConnect Modular Plug - nätverkskontakt	5711780000000.0	EET	2	21.8
+DK	34.0	Cables	USB Cables	Belkin 3.0 USB-C to USB-A Adapter - USB typ C-adapter - 24 pin USB-C till USB typ A	745884000000.0	Despec	1	98.42
+NO	5.0	Keyboard & Mice	Desktop Sets	Logitech Slim Wireless Combo MK470 - sats med tangentbord och mus - nordisk - grafit	5099210000000.0	ALSO	1	418.96
+SE	34.0	Mobiles & GPS	Mobiles - Cases & Holsters	OtterBox Commuter Lite - Baksidesskydd för mobiltelefon - polykarbonat, syntetiskt gummi - svart - för Samsung Galaxy A51	840104000000.0	Ingram	1	137.3
+DK	5.0	Software	Service & Support	MONIT_Kommunikation side2side	nan	ID North Manuell	1	0.0
+NO	3.0	Miscellaneous	Services	Dep-Reg Med Annan Konfig .	nan	Ingram	5	0.05
+SE	45.0	Multimedia & Audio	Headsets	Jabra Evolve2 75 - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-C - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	Ingram	1	2372.53
+DK	3.0	Monitors & TV	Miscellaneous	DELTACO ARM-460 - monteringssats - för platt panel	7333050000000.0	Deltaco	1	347.0
+NO	45.0	Keyboard & Mice	Mouse - Wireless	Logitech Master Series MX MASTER 3S - mus - Bluetooth, 2.4 GHz - grafit	5099210000000.0	TD SYNNEX	3	2948.07
+SE	3.0	Accessories	Remotes	Logitech R500s presentationsfjärrkontroll - mellangrå	5099210000000.0	Deltaco	2	656.0
+DK	45.0	Keyboard & Mice	Mouse - Wireless	Logitech B170 - mus - 2.4 GHz - svart	5099210000000.0	Ingram	1	113.77
+NO	3.0	Cables	Sound & Video Cables	VivoLink ljudkabel - 5 m	5712510000000.0	EET	5	410.0
+SE	5.0	Accessories	Laptops - Batteries	Dell - batteri för bärbar dator - Li-Ion - 8500 mAh - 97 Wh	5707000000000.0	EET	1	1072.0
+DK	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Exertis	1	1546.4
+NO	1.0	Cables	Adapters	eSTUFF - USB-C till uttagsadapter för hörlurar - minijack hona till USB-C hane - 30 cm - silver	5704170000000.0	EET	5	530.0
+SE	6.0	Mobiles & GPS	Mobiles - Cases & Holsters	Apple - Baksidesskydd för mobiltelefon - med MagSafe - läder - skogsgrön - för iPhone 14 Pro	194253000000.0	Ingram	1	545.02
+DK	1.0	Miscellaneous	Services	KME KONFIGURATION	1234.0	Ingram	7	175.0
+NO	1.0	Mobiles & GPS	Mobile Phones - Cables & Power Adapters	Samsung Travel Adapter EP-TA20 strömadapter - USB	8806090000000.0	EET	1	156.0
+SE	76.0	Ink, toner & consumables	Printheads	HP 72 - cyan, magenta - skrivhuvud	808737000000.0	ALSO	1	782.26
+DK	8.0	Cables	HDMI Cables	StarTech.com 5 m Höghastighets-HDMI-kabel – Ultra HD 4k x 2k HDMI-kabel – HDMI till HDMI M/M - HDMI-kabel - 5 m	65030848909.0	Ingram	5	844.8
+NO	7.0	Keyboard & Mice	Desktop Sets	Logitech MK540 Advanced - sats med tangentbord och mus - nordisk	5099210000000.0	EET	1	506.0
+SE	9.0	Keyboard & Mice	Desktop Sets	Logitech Desktop MK120 - sats med tangentbord och mus - nordisk	nan	Ingram	1	215.4
+DK	6.0	Storage	Hard Drives - SSD	WD Red SA500 WDS500G1R0B - SSD - 500 GB - SATA 6Gb/s	718038000000.0	TD SYNNEX	1	517.6
+NO	980.0	Multimedia & Audio	Headsets	Poly Blackwire 3320 - 3300 Series - headset - på örat - kabelansluten - USB	17229167667.0	Exertis	10	2955.1
+SE	6.0	Accessories	Docking Solutions	Kensington SD4839P - dockningsstation - USB-C 3.2 Gen 2 - HDMI, 2 x DP++ - GigE	nan	TD SYNNEX	1	1961.56
+DK	798.0	Keyboard & Mice	Keyboard - Cable	DELTACO TB-626 - Tangentbord - USB - Nordisk - svart	7333050000000.0	Deltaco	10	921.9
+NO	6.0	Computers	Chrome Enterprise	"HP CB 14"" Fortis"	nan	HP PPS Sverige AB Manuell	50	169981.5
+SE	7.0	Mobiles & GPS	Mobile Phones - Cables & Power Adapters	DELTACO USB-AC149 strömadapter - USB - 12 Watt	7333050000000.0	Deltaco	1	54.09
+DK	1.0	Multimedia & Audio	Headsets	Sandberg Office Saver - Headset - på örat - kabelansluten - USB	5705730000000.0	EET	10	1274.6
+NO	8.0	Keyboard & Mice	Mouse - Wireless	DELTACO OFFICE - mus - 2.4 GHz - svart	7333050000000.0	Deltaco	2	247.34
+SE	9.0	Multimedia & Audio	Headsets	Apple EarPods - Hörlurar med mikrofon - öronknopp - kabelansluten - Lightning - för iPad/iPhone/iPod (Lightning)	190198000000.0	TD SYNNEX	1	181.25235
+DK	1.0	Accessories	Laptops - Cases & Bags	"Targus CityGear 3 - Fodral för bärbar dator - 13.3"" - svart"	5051790000000.0	Ingram	1	140.0901
+NO	0.0	Services	Configuration services	Installationstjänst Sundsvall	nan	InfoCare Service AB	1	785.88
+SE	0.0	Accessories	Accessories - Miscellaneous	Återtagstjänster	nan	Advania Finans	1	0.0
+DK	1.0	Accessories	Cases & Bags - Tablets	UAG Rugged Case for Surface Pro 7+/7/6/5/LTE/4 - Metropolis Black - Fodral för surfplatta - svart - för Microsoft Surface Pro (I mitten av 2017), Pro 4, Pro 6, Pro 7, Pro 7+	855446000000.0	Deltaco	4	1688.0
+NO	9.0	Cables	Serial Cables	MicroConnect - USB / seriell kabel - DB-9 till USB - 1.8 m	4719510000000.0	EET	1	98.0
+SE	8.0	Miscellaneous	nan	CS/Antitheft Label/Advania/Botkyrka	nan	TD Synnex	1	0.01065
+DK	73.0	Accessories	Keyboard Cases - Tablets	ZAGG Messenger Folio 2 - Tangentbord och foliefodral - Bluetooth - nordisk - träkol tangentbord, träkol fodral - för Apple 10.2-inch iPad; 10.5-inch iPad Air (3:e generationen)	840056000000.0	Ingram	25	9983.5
+NO	45.0	Accessories	Privacy Filter - Laptops & Monitors	Targus Privacy Screen - Sekretessfilter till bärbar dator - borttagbar - 13,3 tum bred - för Dell Latitude E6320, E6320 N-Series, E6330; Vostro 3300, 3350, 3360; XPS 13	5051790000000.0	EET	1	428.0
+SE	4.0	Spare parts	Unclassified & others	HP Smart - strömadapter - 90 Watt	5704330000000.0	EET	2	596.0
+DK	5.0	Services	Logistic services	Leverans, uppsättning, återtag - Gävle	nan	InfoCare Service AB	1	888.89
+NO	345.0	Memory	USB	Kingston IronKey Keypad 200 - USB flash-enhet - 16 GB	nan	Exertis	1	719.72
+SE	2.0	Cables	HDMI Cables	StarTech.com 2m High Speed HDMI Cable w/ Ethernet Ultra HD 4k x 2k - HDMI-kabel med Ethernet - 2 m	65030844505.0	ALSO	4	390.56
+DK	3.0	Accessories	Docking Solutions	HP Thunderbolt Dock G4 - dockningsstation - HDMI, 2 x DP, Thunderbolt, USB-C - GigE, 2.5 GigE	196069000000.0	Deltaco	2	4568.0
+NO	1.0	Accessories	Laptops - Cases & Bags	"Targus Cypress Slimcase with EcoSmart - Notebook-väska - 14"" - grå"	5051790000000.0	TD SYNNEX	5	1411.1
+SE	23.0	Miscellaneous	Services	Aktivering Google-Enroll-Invfil Inkl Os Uppdatering	nan	Exertis	1	45.0
+DK	23.0	Cables	Lightning Cables	StarTech.com 3 m USB till Lightning-kabel - Lång iPhone/iPad/iPod-laddningskabel - Lightning till USB-kabel - Apple MFi-certifierad - Vit - Lightning-kabel - Lightning hane till USB hane - 3 m - vit - för P/N: KITBXAVHDPEU, KITBXAVHDPNA, KITBXAVHDPUK, KITBXDOCKPEU, KITBXDOCKPUK, KITBZDOCK	65030851763.0	Ingram	1	239.7954
+NO	4.0	Keyboard & Mice	Mouse - Cable	Logitech M500s Advanced Corded Mouse - mus - USB	nan	ALSO	10	3170.8
+SE	34.0	Keyboard & Mice	Mice - Ergonomic	Optapad Original - styrplatta - USB - svart, silvergrå	7332110000000.0	Despec	1	1195.0
+DK	234.0	Digital Cameras & Video	Webcams	Microsoft LifeCam Studio - webcam	885370000000.0	EET	1	766.0
+NO	234.0	Multimedia & Audio	Speakers	Ultimate Ears WONDERBOOM 3 - högtalare - för bärbar användning - trådlös	nan	Despec	3	2823.81
+SE	243.0	Mobiles & GPS	Mobiles - Cases & Holsters	Tolerate ECO CASE - Baksidesskydd för mobiltelefon - organiskt material - kolsvart - för Apple iPhone 7, 8, SE (3rd generation), SE (andra generationen)	7350060000000.0	Ingram	1	102.0
+DK	53.0	Keyboard & Mice	Mouse - Wireless	Logitech M705 - mus - 2.4 GHz - grå	5099210000000.0	Deltaco	1	308.0
+NO	1.0	Accessories	Laptops - Cases & Bags	"PORT Torino II - Fodral för bärbar dator - 15.6"" - grå"	nan	Exertis	1	132.37
+SE	3.0	Multimedia & Audio	Headsets	Jabra Evolve 65 SE UC Stereo - Headset - på örat - Bluetooth - trådlös - USB - Optimerad för UC - för Jabra Evolve; LINK 380a MS	nan	Isicom	1	1286.11
+DK	45.0	Memory	USB	Kingston DataTraveler Kyson - USB flash-enhet - 64 GB	nan	Deltaco	20	1234.2
+NO	3.0	Keyboard & Mice	Keyboard - Wireless	Logitech Wireless Solar K750 - tangentbord - nordisk	5099210000000.0	ALSO	1	775.89
+SE	5.0	Keyboard & Mice	Keyboard - Cable	CHERRY STREAM KEYBOARD - Tangentbord - USB - hela norden - tangentbrytare: CHERRY SX - svart	4025110000000.0	Ingram	1	276.32
+DK	3.0	Services	Logistic services	Leverans, uppsättning, återtag - Gävle	nan	InfoCare Service AB	1	788.0
+NO	5.0	Miscellaneous	Services	Logistikhantering Monitor Only For Advania (Adv)	nan	Ingram	1	75.0
+SE	2.0	Mobiles & GPS	Mobile Phones - Cables & Power Adapters	Belkin BOOST CHARGE strömadapter - USB - 24 Watt	745884000000.0	Despec	5	583.2
+DK	4.0	Accessories	Card reader	Omnikey 3121 USB - Kortläsare - SLL	nan	Pointsharp AB	5	980.0
+NO	3.0	Accessories	Accessories - Miscellaneous	Stöldskyddsetikett Solna S160092#Sol	10000000000000.0	Ingram	5	0.05
+SE	56.0	Keyboard & Mice	Keyboard - Wireless	Logickeyboard Xl-Print PC Swedish	nan	CBK Sweden Manuell	1	880.0
+DK	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 75 - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-C - ljudisolerande - svart - Optimerad för UC	5706990000000.0	Ingram	1	2675.26
+NO	56.0	Accessories	Service & support - Computers	Tender/Education-Chromebook-Nordic-ACX14-021110NX-Extension From 1YR Intern. PUR=>3YR Intern PUR+BSP	nan	Exertis	65	20735.0
+SE	3.0	Cables	USB Cables	MicroConnect USB-C 3.2 Gen 2x2 Cable, 1.5m	5704170000000.0	EET	15	1260.0
+DK	5.0	Mobiles & GPS	Mobiles - Cases & Holsters	eSTUFF - Fodral för mobiltelefon - UV-belagd termoplastisk polyuretan - klar - för Nokia 5.4	nan	EET	2	102.0
+NO	357.0	Multimedia & Audio	Headphones	Sandberg Headphone - hörlurar, bulk minst 10-pack (OBS! Måste beställas i jämna 10-tal, bulkförpackad)	5705730000000.0	Despec	100	1973.0
+SE	3.0	Mobiles & GPS	Mobiles - Cases & Holsters	IDEAL OF SWEDEN Magnet Wallet+ - Vikbart fodral för mobiltelefon - svart - för Apple iPhone 12, 12 Pro	7340200000000.0	Ingram	1	144.0
+DK	7.0	Components	Cooling & Fans	HPE Maximum Performance Fan Kit - fläktsats för system	nan	TD SYNNEX manuell	2	1914.58
+NO	3.0	Miscellaneous	Services	ADVANIA DEP .	nan	Ingram	1	6.39
+SE	1.0	Accessories	Laptops - Cases & Bags	"Targus Classic Clamshell - Notebook-väska - 15"" - 16"" - svart"	5024440000000.0	Deltaco	1	199.0
+DK	11.0	Digital Cameras & Video	Webcams	Sandberg USB Webcam Flex - webbkamera	5705730000000.0	EET	4	1402.6
+NO	233.0	Mobiles & GPS	Mobiles - Cases & Holsters	IDEAL OF SWEDEN A/W 21 - Baksidesskydd för mobiltelefon - plast - marmorerad gyllene oliv - för Apple iPhone 12, 12 Pro	7340200000000.0	Ingram	1	103.0
+SE	44.0	Power-adaptors & UPS	Power Adapters	HP Smart Slim - strömadapter - 150 Watt	5707000000000.0	EET	1	654.0
+DK	1.0	Mobiles & GPS	Mobiles - Screen Shields	Tolerate - Skärmskydd för mobiltelefon - glas - för Samsung Galaxy S20 FE, S20 FE 5G	7350060000000.0	Ingram	1	66.67
+NO	2.0	Accessories	Laptops - Cases & Bags	"Targus Intellect - Ryggsäck för bärbar dator - 15.6"" - grå, svart"	5051790000000.0	ALSO	1	214.39
+SE	3.0	Monitors & TV	Monitors	Promethean Wi-Fi and Bluetooth module for Activepanel 9	nan	Exertis	4	1580.0
+DK	1.0	Mobiles & GPS	Mobiles - Cases & Holsters	DELTACO - Vikbart fodral för mobiltelefon - gummerad - svart - för Apple iPhone 6, 6s, 7, 8, SE (andra generationen)	7333050000000.0	Deltaco	1	100.72
+NO	23.0	Multimedia & Audio	Headsets	Jabra Evolve2 75 - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A - ljudisolerande - svart - med laddningsställ - Certifierad för Microsoft-teams	5706990000000.0	Isicom	1	2454.93
+SE	23.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	Isicom	1	1394.36
+DK	4.0	Accessories	Privacy Filter - Laptops & Monitors	"PORT Professional 14"" - filter för personlig integritet"	3567050000000.0	Exertis	1	162.92
+NO	34.0	Cables	Adapters	MicroConnect - Lightning-adapter - Lightning hane till USB typ A hona - silver - för Apple iPad/iPhone/iPod (Lightning)	5704170000000.0	EET	5	360.0
+SE	234.0	Ink, toner & consumables	Toner - Black	Greenman - Svart - kompatibel - tonerkassett - för Brother DCP-7060, 7065, 7070, HL-2240, 2250, 2270, MFC-7360, 7460, 7860; FAX-2840, 2940	7332570000000.0	Greenman	2	714.0
+DK	234.0	Miscellaneous	Ergonomics	Matting Underarmsstöd MT Plus - handledsstöd	7392490000000.0	EET	1	698.0
+NO	243.0	Ink, toner & consumables	Miscellaneous	Kyocera SH-12 - 3-pack - 5000 häftklamrar - häftklammermagasin	5712510000000.0	EET	1	948.0
+SE	53.0	Keyboard & Mice	Mouse - Wireless	Logitech B170 - mus - 2.4 GHz - svart	5099210000000.0	Ingram	1	113.77
+DK	1.0	Accessories	Cases & Bags - Tablets	"Targus Click-In - Vikbart fodral för surfplatta - polyuretan, termoplastisk polyuretan (TPU) - svart - 10.9"" - för Apple 10.9-inch iPad (10:e generation)"	5051790000000.0	Exertis	2	397.64
+NO	3.0	Accessories	Laptops - Cases & Bags	"Targus Classic Clamshell - Notebook-väska - 14"" - svart, röd"	5051790000000.0	TD SYNNEX	1	218.3
+SE	45.0	Keyboard & Mice	Keyboard - Wireless	Logitech Wireless Keyboard K270 - tangentbord - nordisk	5099210000000.0	Ingram	1	288.23
+DK	3.0	Keyboard & Mice	Keyboard - Cable	Optapad - Tangentbord - USB - svart, silvergrå	7332110000000.0	Despec	1	345.0
+NO	5.0	Memory	RAM	Dell minnesuppgradering - 64GB - 2RX4 DDR4 RDIMM 2933MHz (Cascade Lake endast)	nan	TD SYNNEX manuell	2	21405.4
+SE	3.0	Miscellaneous	Services	Stoldskyddsmarkning Med Etikett/Advania	nan	Ingram	1	31.0
+DK	5.0	Keyboard & Mice	Desktop Sets	Lenovo Essential Wireless Combo - sats med tangentbord och mus - nordisk	190940000000.0	Ingram	1	399.59
+NO	2.0	Keyboard & Mice	Mice - Ergonomic	Logitech Lift Vertical Ergonomic Mouse - vertikal mus - Bluetooth, 2.4 GHz - offwhite	nan	Ingram	1	606.17
+SE	4.0	Multimedia & Audio	Headsets	Jabra Evolve2 40 MS Stereo - Headset - på örat - kabelansluten - USB-C - ljudisolerande - Certifierad för Microsoft-teams	5706990000000.0	ALSO	1	952.33
+DK	3.0	Keyboard & Mice	Desktop Sets	Logitech MK540 Advanced - sats med tangentbord och mus - nordisk	5099210000000.0	ALSO	1	523.91
+NO	56.0	Accessories	Privacy Filter - Laptops & Monitors	"HP - Sekretessfilter till bärbar dator - 14"" - för HP 240 G1, 240 G2, 240 G3, 240 G4, 245 G2, 245 G3, 248 G1, 340 G1, 340 G2"	4514950000000.0	TD Synnex	10	3544.3
+SE	3.0	Keyboard & Mice	Mouse - Wireless	CHERRY GENTIX BT - mus - Bluetooth 4.0 - svart	4025110000000.0	Ingram	1	224.29
+DK	56.0	Cables	HDMI Cables	StarTech.com 1m High Speed HDMI Cable w/ Ethernet Ultra HD 4k x 2k - HDMI-kabel med Ethernet - 1 m	65030844451.0	ALSO	1	67.64
+NO	3.0	Digital Cameras & Video	Webcams	Logitech Webcam C925e - webbkamera	5099210000000.0	EET	1	706.0
+SE	5.0	Cables	HDMI Cables	StarTech.com USB C till HDMI-kabel 4K 60 Hz på 3 m med HDR10 - Ultra HD USB Type-C till 4K HDMI 2.0b-videokabeladapter - USB-C till HDMI HDR-skärm/skärmsadapter - DP 1.4 Alt Mode HBR3 - adapterkabel - HDMI / USB - 3 m	nan	ALSO	3	1095.66
+DK	357.0	Networking	USB Hubs	Deltaco UH-484 - hubb - 4 portar	7340000000000.0	Deltaco	1	173.0
+NO	3.0	Keyboard & Mice	Mouse - Cable	DELTACO MS-711 - mus - USB 2.0 - svart	7333050000000.0	Deltaco	2	75.5
+SE	7.0	Cables	HDMI Cables	StarTech.com Höghastighets HDMI-kabel M/M - 4K @ 30 Hz - ingen signalförstärkare behövs - 15 m - HDMI-kabel - 15 m	65030844499.0	Ingram	1	436.75
+DK	3.0	Software	Service & Support	IDM Ansl syst	nan	ID North Manuell	9	2700.0
+NO	657.0	Miscellaneous	Services	APPLICERING SKÄRMSKYDD TELEFON	nan	Ingram	4	148.0
+SE	3.0	Keyboard & Mice	Mouse - Wireless	Logitech M705 - mus - 2.4 GHz	5099210000000.0	EET	1	406.0
+DK	67.0	Mobiles & GPS	Mobiles - Cases & Holsters	Gear4 Crystal Palace - Baksidesskydd för mobiltelefon - polykarbonat, D3O, termoplastisk polyuretan (TPU), RepelFlex-beläggning - klar - för Apple iPhone 13	840056000000.0	Ingram	30	4530.0
+NO	35.0	Ink, toner & consumables	Ink Cartridges	HP 57 - Färg (cyan, magenta, gul) - original - bläckpatron - för Deskjet 51XX, F4135, F4150, F4172, F4175, F4185, F4188, F4190, F4194; Photosmart 7550	884963000000.0	Despec	1	625.68
+SE	67.0	Cables	Monitor Cables	StarTech.com DisplayPort to DVI Cable - 6ft / 2m - 1920 x 1200 - M/M – DP to DVI Adapter Cable – Passive DisplayPort Monitor Cable (DP2DVI2MM6) - video adapter cable - DVI-D to DisplayPort - 1.8 m	65030840248.0	Ingram	4	801.64
+DK	3.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	Isicom	2	2788.72
+NO	65.0	Miscellaneous	Ergonomics	Kensington ErgoSoft Wrist Rest for Mechanical & Gaming Keyboards - handledsstöd till tangentbord	85896527985.0	EET	3	660.0
+SE	73.0	Miscellaneous	nan	.	nan	3 STEP IT Sweden AB	1	0.0
+DK	5.0	Memory	USB	Kingston DataTraveler Exodia M - USB flash-enhet - 64 GB	740617000000.0	TD SYNNEX	20	638.4
+NO	6.0	Mobiles & GPS	Mobiles - Cases & Holsters	Tolerate ARMOR - Baksidesskydd för mobiltelefon - svart - för Samsung Galaxy S22	7340210000000.0	Ingram	1	125.0
+SE	2.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-C - ljudisolerande - svart - med laddningsställ - Certifierad för Microsoft-teams	5706990000000.0	Isicom	1	1748.1
+DK	2.0	Power-adaptors & UPS	Power Adapters	CoreParts - strömadapter - 12 Watt	5707000000000.0	EET	10	1480.0
+NO	56.0	Services	Configuration services	Installationstjänst Sundsvall	nan	InfoCare Service AB	2	1571.76
+SE	3.0	Keyboard & Mice	Mouse - Wireless	Logitech M171 - mus - 2.4 GHz - svart	5099210000000.0	Ingram	1	113.73
+DK	456.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - på örat - Bluetooth - trådlös - USB-A - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	Isicom	6	8345.64
+NO	3.0	Telephones	Conference Calls	Jabra SPEAK 710 MS - Konferenshögtalare USB BT	5706990000000.0	Westcon	1	1997.4
+SE	56.0	Multimedia & Audio	Headsets	Logitech Zone Wireless MS - Headset - på örat - Bluetooth - trådlös - aktiv brusradering	nan	ALSO	1	1620.3
+DK	3.0	Miscellaneous	Services	Stöldmärkning - Avser tjänsten, etikett ingår inte i priset - Glöm inte ange placering på produkt och beställa/tillhandahålla etikett! - säljs enbart i samband med annan konfig som tilläggstjänst	nan	TD Synnex	1	10.81
+NO	6.0	Cables	Monitor Cables	MicroConnect - DisplayPort-kabel - DisplayPort till DisplayPort - 2 m	5704170000000.0	EET	200	6600.0
+SE	1.0	Mobiles & GPS	Mobiles - Cases & Holsters	Apple - Baksidesskydd för mobiltelefon - med MagSafe - silikon - svart - för iPhone 12, 12 Pro	nan	Ingram	1	476.47
+DK	6.0	Mobiles & GPS	Mobiles - Screen Shields	Tolerate - Skärmskydd för mobiltelefon - 2.5D - glas - för Samsung Galaxy A52, A52 5G, A52s 5G, A53 5G	7350060000000.0	Ingram	1	71.00355
+NO	3.0	Power-adaptors & UPS	Power Adapters	CoreParts - strömadapter - 12 Watt	5707000000000.0	EET	1	148.0
+SE	56.0	Keyboard & Mice	Mouse - Cable	Sandberg USB Mouse - mus - USB	5705730000000.0	EET	10	318.1
+DK	3.0	Keyboard & Mice	Desktop Sets	Logitech Slim Wireless Combo MK470 - sats med tangentbord och mus - nordisk - grafit	5099210000000.0	ALSO	4	1675.84
+NO	56.0	Accessories	Laptops - Cases & Bags	"Targus EcoSpruce - Ryggsäck för bärbar dator - 15.6"" - svart"	nan	TD SYNNEX	2	927.98
+SE	3.0	Accessories	Docking Solutions	Kensington SD4839P - dockningsstation - USB-C 3.2 Gen 2 - HDMI, 2 x DP++ - GigE	nan	TD SYNNEX	1	1950.76
+DK	5.0	Mobiles & GPS	Mobiles - Cases & Holsters	"OtterBox Defender Series Apple iPhone 7 - ProPack ""Each"" - skyddsfodral för mobiltelefon - robust - polykarbonat, syntetiskt gummi - svart - för Apple iPhone 7, 8, SE (3rd generation), SE (andra generationen)"	660543000000.0	Ingram	3	684.24
+NO	357.0	Projectors	Lamps	CoreParts projektorlampa	5704330000000.0	EET	3	2892.0
+SE	3.0	Accessories	Laptops - Cases & Bags	"Lenovo ThinkPad Professional Backpack - Notebook carrying backpack - 15.6"" - black - for K14 Gen 1; ThinkCentre M75t Gen 2; ThinkPad E14 Gen 3; P15v Gen 3; Yoga Slim 7 Pro 14"	nan	Ingram	1	642.24
+DK	7.0	Advania Exit	Övrigt	Service Exit 	nan	nan	1	500.0
+NO	3.0	Multimedia & Audio	Headsets	Poly Voyager Focus 2 UC - Headset - på örat - Bluetooth - trådlös, kabelansluten - aktiv brusradering - USB-A via Bluetooth-adapter - Certifierad för Microsoft-teams	nan	Isicom	1	1396.04
+SE	657.0	Multimedia & Audio	Headsets	Jabra Evolve2 85 MS Stereo - Headset - fullstorlek - Bluetooth - trådlös, kabelansluten - aktiv brusradering - 3,5 mm kontakt - ljudisolerande - svart - Certifierad för Microsoft-teams	5706990000000.0	ALSO	1	3360.56
+DK	3.0	Miscellaneous	Services	Excelfil Modellsn-Löpnr-Macadr Samt Ev Stöldskyddsnr	nan	Ingram	1	15.975
+NO	67.0	Storage	Hard Drives - External	Verbatim Vx500 - SSD - 120 GB - USB 3.1 Gen 2	23942474418.0	Deltaco	2	668.0
+SE	35.0	Multimedia & Audio	Headsets	Jabra Evolve2 65 MS Stereo - Headset - on-ear - Bluetooth - wireless - USB-A - noise isolating - black - Certified for Microsoft Teams	5706990000000.0	TD SYNNEX	2	3337.16
+DK	67.0	Miscellaneous	Services	Tech Data Services - tekniskt stöd	nan	TD SYNNEX	1	10.15
+NO	3.0	Keyboard & Mice	Desktop Sets	Logitech MK540 Advanced - sats med tangentbord och mus - nordisk	5099210000000.0	EET	1	506.0
+SE	65.0	Miscellaneous	Services	Excelfil Modellsn-Löpnr-Macadr Samt Ev Stöldskyddsnr	nan	Ingram	1	15.0
+DK	73.0	Multimedia & Audio	Headsets	Jabra Evolve 40 MS stereo - Headset - på örat - kabelansluten	5706990000000.0	Isicom	1	715.53
+NO	5.0	Mobiles & GPS	Mobile Phones - Cables & Power Adapters	Samsung Fast Charging Wall Charger EP-TA800 strömadapter - 24 pin USB-C - 25 Watt	8801640000000.0	Ingram	2	379.14
+SE	6.0	Networking	USB Hubs	DELTACO UH-475 - hubb - 4 portar	7340000000000.0	Deltaco	1	153.0
+DK	2.0	Keyboard & Mice	Mousepads	SteelSeries QcK Hard - musmatta	nan	Exertis	1	311.11
+NO	2.0	Mobiles & GPS	Mobiles - Screen Shields	ZAGG InvisibleShield Glass Elite VisionGuard - Skärmskydd för mobiltelefon - glas - för Apple iPhone 7, 8, SE (3rd generation), SE (andra generationen)	840056000000.0	Ingram	5	253.85
+SE	56.0	Mobiles & GPS	Mobiles - Screen Shields	Tolerate - Skärmskydd för mobiltelefon - 2.5D - glas - för Apple iPhone 13, 13 Pro, 14	7350060000000.0	Ingram	1	71.00355
+DK	3.0	Accessories	Keyboard Cases - Tablets	ZAGG Rugged Messenger - Tangentbord och foliefodral - bakgrundsbelyst - Bluetooth - Nordisk - svart tangentbord, svart fodral - för Apple 10.2-inch iPad (7:e generation, 8:e generation, 9:e generation)	840056000000.0	Ingram	2	1372.12
+NO	456.0	Miscellaneous	Services	Montering Stöldskydd Enligt Beskr Limmas	nan	Ingram	1	20.0
+SE	3.0	Cables	USB Cables	MicroConnect Premium - USB typ C-kabel - USB-C till USB-C - 3 m	5704170000000.0	EET	1	176.0
+DK	56.0	Keyboard & Mice	Desktop Sets	HP 225 - sats med tangentbord och mus - hela norden	nan	Ingram	1	171.43
+NO	3.0	Storage	External Drives	Hitachi-LG Data Storage GP60NB60 - DVD-skrivare - SuperSpeed USB 3.1 Gen 1 - extern	4057190000000.0	Ingram	1	468.5
+SE	56.0	Mobiles & GPS	Mobiles - Cases & Holsters	Tolerate - Vikbart fodral för mobiltelefon - för Apple iPhone 13	7350060000000.0	Ingram	1	171.465
+DK	3.0	Cables	Adapters	Apple MagSafe to MagSafe 2 Converter - Adapter för effektkontakt - MagSafe (hona) till MagSafe 2 (hane) - för MacBook Air; MacBook Pro with Retina display	885910000000.0	TD SYNNEX	2	215.9394
+NO	56.0	Digital Cameras & Video	Webcams	Microsoft LifeCam Studio - webcam	885370000000.0	EET	1	766.0
